@@ -1,0 +1,1243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe ShortCodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-23 19:42+0530\n"
+"PO-Revision-Date: 2015-06-23 19:42+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Atlasyar <info@atlasyar.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/vibe-"
+"shortcodes\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe-shortcodes
+#: ajaxcalls.php:77 ajaxcalls.php:115
+msgid "Unable to send message! Please try again later.."
+msgstr "قادر به ارسال پیغام نمی باشد! لطفا بعدا دوباره تلاش کنید .."
+
+# @ vibe-shortcodes
+#: ajaxcalls.php:95
+msgid "Contact Form Submission"
+msgstr "ارسال فرم تماس"
+
+# @ vibe-shortcodes
+#: ajaxcalls.php:113
+msgid "Message sent!"
+msgstr "پیغام ارسال شد!"
+
+# @ vibe-shortcodes
+#: shortcodes.php:141
+msgid "EARNED"
+msgstr "درآمد"
+
+# @ vibe-shortcodes
+#: shortcodes.php:165
+msgid "Check all Courses created by "
+msgstr "بررسی همه دوره های ایجاد شده توسط "
+
+# @ vibe-shortcodes
+#: shortcodes.php:166
+msgid "More Courses by "
+msgstr "دوره های بیشتر "
+
+# @ vibe-shortcodes
+#: shortcodes.php:1422
+msgid "MEMBERS"
+msgstr "اعضاء"
+
+# @ vibe-shortcodes
+#: shortcodes.php:1425
+msgid "COURSES"
+msgstr "دوره ها"
+
+# @ vibe-shortcodes
+#: shortcodes.php:1428
+msgid "INSTRUCTORS"
+msgstr "اساتید"
+
+# @ vibe-shortcodes
+#: shortcodes.php:1431
+msgid "GROUPS"
+msgstr "گروه ها"
+
+# @ vibe-shortcodes
+#: shortcodes.php:1434
+msgid "SUBSCRIPTIONS"
+msgstr "مشترکین"
+
+# @ vibe-shortcodes
+#: shortcodes.php:1437
+msgid "SALES"
+msgstr "فروش ها"
+
+# @ vibe-shortcodes
+#: shortcodes.php:1440
+msgid "EARNINGS"
+msgstr "درآمد ها"
+
+#: shortcodes.php:1472
+msgid "SHOW HINT"
+msgstr "نمایش نکته"
+
+#: shortcodes.php:1473
+msgid "HINT"
+msgstr "نکته"
+
+#: shortcodes.php:1485
+msgid "FALSE"
+msgstr "نادرست"
+
+#: shortcodes.php:1485
+msgid "TRUE"
+msgstr "درست"
+
+#: shortcodes.php:1532 shortcodes.php:1535
+msgid "Type Answer"
+msgstr "نوشتن پاسخ"
+
+#: shortcodes.php:1543
+msgid "Check Answer"
+msgstr "بررسی پاسخ"
+
+#: shortcodes.php:1558
+msgid "Explaination"
+msgstr "توضیحات"
+
+#: shortcodes.php:1585
+msgid "Type Keywords.."
+msgstr "نوشتن کلمات کلیدی .."
+
+#: shortcodes.php:1586
+msgid "Search"
+msgstr "جستجو"
+
+# @ vibe-shortcodes
+#: upload_handler.php:16
+msgid "Upload ZIP"
+msgstr "آپلود ZIP"
+
+# @ vibe-shortcodes
+#: upload_handler.php:37 upload_handler.php:332
+msgid "Upload Library"
+msgstr "آپلود کتابخانه"
+
+# @ vibe-shortcodes
+#: upload_handler.php:38 upload_handler.php:236 upload_handler.php:323
+msgid "Upload File"
+msgstr "آپلود فایل"
+
+# @ vibe-shortcodes
+#: upload_handler.php:93
+msgid "Iframe source"
+msgstr "منبع Iframe"
+
+# @ vibe-shortcodes
+#: upload_handler.php:102
+msgid "Maximum height of iFrame"
+msgstr "بیشترین ارتفاع iFrame"
+
+# @ vibe-shortcodes
+#: upload_handler.php:103
+msgid "Insert Into Post"
+msgstr "درج درون مطلب"
+
+# @ vibe-shortcodes
+#: upload_handler.php:129
+#, php-format
+msgid "Showing Content %d - %d from %d"
+msgstr "نمایش محتوای %d - %d از %d"
+
+# @ vibe-shortcodes
+#: upload_handler.php:154
+msgid "No packages available"
+msgstr "هیچ بسته ای وجود ندارد"
+
+# @ vibe-shortcodes
+#: upload_handler.php:219
+msgid "Please upload a Zip package with index.html file"
+msgstr "لطفا یک بسته Zip با فایل  index.html آپلود کنید"
+
+# @ vibe-shortcodes
+#: upload_handler.php:220
+msgid "No data found!"
+msgstr "هیچ داده ای پیدا نشد!"
+
+# @ vibe-shortcodes
+#: upload_handler.php:221
+msgid "Are you sure you want to remove this package?"
+msgstr "آیا از حذف این بسته اطمینان دارید؟"
+
+# @ vibe-shortcodes
+#: upload_handler.php:235
+msgid "Choose a file to upload"
+msgstr "انتخاب فایل برای آپلود"
+
+# @ vibe-shortcodes
+#: upload_handler.php:239
+msgid "Please choose a .zip package file"
+msgstr "لطفا یک فایل بسته .zip انتخاب کنید"
+
+# @ vibe-shortcodes
+#: upload_handler.php:263
+msgid "The Upload file must be zip archive"
+msgstr "فایل آپلودی باید آرشیو zip شده باشد"
+
+# @ vibe-shortcodes
+#: upload_handler.php:273
+msgid "File too big"
+msgstr "فایل خیلی بزرگ است"
+
+# @ vibe-shortcodes
+#: upload_handler.php:294
+msgid "Please upload zip file, Index.html file not found in package"
+msgstr "لطلا فایل zip آپلود کنید، فایل Index.html در بسته پیدا نشد"
+
+# @ vibe-shortcodes
+#: upload_handler.php:298
+msgid "Upload failed !"
+msgstr "آپلود شکست خورد!"
+
+# @ vibe-shortcodes
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "لطفا نام کاربری Envato Marketplace  خود را وارد کنید."
+
+# @ vibe-shortcodes
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "لطفا Envato Marketplace API Key خود را وارد کنید."
+
+# @ vibe-shortcodes
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "تنظیم API یک پارامتر ضروری است."
+
+# @ vibe-shortcodes
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr " Envato Marketplace \"item ID\" یک پارامتر ضروری است."
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "هنگام درخواست API یک خطای HTTP غیرمنتظره رخ داده است."
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "دوباره تلاش کنید"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "یک خطای ناشناخته رخ داده است."
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"افزونه بروزرسانی شده است ولی مجددا فعال نشده است. لطفا به صورت دستی آن را "
+"فعال کنید."
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "فعالسازی مجدد افزونه باموفقیت انجام شد."
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "بروزرسانی های افزونه"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری:"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "ایمیل:"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید:"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>بروزرسانی افزونه شما <span style=\"color:green\">فععال شد</span></p>"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\">معتبر نیست</span>, بروزرسانی های "
+"اتوماتیک <span style=\"color:red\">فعال نمی باشد</span>.</p>"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به اعتبارسنجی فعالسازی بروزرسانی نمی باشد</p>"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "افزودن کلید"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "ایمیل"
+
+# @ vibe-shortcodes
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری Themeforest (برای بروزرسانی خودکار)"
+
+# @ vibe-shortcodes
+#: classes/vibeshortcodes.class.php:48
+msgid "Sending mail"
+msgstr "ارسال ایمیل"
+
+# @ vibe-shortcodes
+#: classes/vibeshortcodes.class.php:49
+msgid "Error :"
+msgstr "خطا:"
+
+# @ vibe-shortcodes
+#: classes/vibeshortcodes.class.php:50
+msgid "Invalid "
+msgstr "نامعتبر"
+
+# @ vibe-shortcodes
+#: classes/vibeshortcodes.class.php:51
+msgid "Captcha Mismatch"
+msgstr "عدم تطابق کپچا"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:13
+msgid "Open first"
+msgstr "آکاردیون باز"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:14
+msgid "First accordion will be open by default"
+msgstr "آکاردیونی که به صورت پیش فرض باز خواهد شد"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:16
+msgid "No"
+msgstr "خیر"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:17
+msgid "Yes"
+msgstr "بلی"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:22
+msgid "Insert Accordion Shortcode"
+msgstr "وارد کردن کد کوتاه آکاردیون"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:27
+msgid "Accordion Title 1"
+msgstr "عنوان آکاردیون 1"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:28
+msgid "Add the title of the accordion"
+msgstr "افزودن عنوان برای آکاردیون"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:34
+msgid "Accordion Content"
+msgstr "محتوای آکاردیون"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:35 tinymce/config.php:915
+msgid "Add the content. Accepts HTML & other Shortcodes."
+msgstr "افزودن محتوا. HTML  و کدهای کوتاه پذیرفته می شوند."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:39
+msgid "Add Accordion Toggle"
+msgstr "افزودن قلاب آکاردیون"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:53
+msgid "Link URL"
+msgstr "URL لینک"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:54
+msgid "Add the button's url eg http://www.example.com"
+msgstr "افزودن url دکمه eg http://www.example.com"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:59
+msgid "Button Style"
+msgstr "استایل دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:60
+msgid "Select button style"
+msgstr "انتخاب استایل دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:72 tinymce/config.php:323
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:73
+msgid "Select the button's size"
+msgstr "انتخاب سایز دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:77
+msgid "Hover Bg color"
+msgstr "رنگ Hover Bg"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:78
+msgid "Select the button's on hover background color "
+msgstr "انتخاب رنگ hover پس زمینه دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:82
+msgid "Text color"
+msgstr "رنگ متن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:83
+msgid "Select the button's text color"
+msgstr "انتخاب رنگ متن دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:87
+msgid "Font Size"
+msgstr "سایز فونت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:94
+msgid "Width"
+msgstr "عرض"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:101
+msgid "Height"
+msgstr "ارتفاع"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:108
+msgid "Border Radius"
+msgstr "Border Radius"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:115
+msgid "Button Target"
+msgstr "هدف دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:116
+msgid "_self = open in same window. _blank = open in new window"
+msgstr "_self = در همان پنجره. _blank = در پنجره جدید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:125
+msgid "Button Anchor"
+msgstr "Anchor دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:126
+msgid "Replace button label with the text you enter."
+msgstr "جایگزین کردن برچسب دکمه با متنی که شما وارد کردید."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:130
+msgid "Insert Button Shortcode"
+msgstr "وارد کردن کد کوتاه دکمه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:141
+msgid "Insert Columns Shortcode"
+msgstr "وارد کردن کد کوتاه ستون ها"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:149 tinymce/config.php:165
+msgid "Column Type"
+msgstr "نوع ستون"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:150 tinymce/config.php:166
+msgid "Select the type, ie width of the column."
+msgstr "انتخاب نوع، ie عرض ستون."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:175
+msgid "Column Content"
+msgstr "محتوای ستون"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:176
+msgid "Add the column content."
+msgstr "افزودن محتوای ستون."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:180
+msgid "Add Column"
+msgstr "افزودن ستون"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:194
+msgid "Start value of counter"
+msgstr "مقدار شروع برای شمارنده"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:195
+msgid "Add a starting number"
+msgstr "افزودن عدد شروع"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:200
+msgid "Maximum value of counter"
+msgstr "بیشترین مقدار شمارنده"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:201 tinymce/config.php:358
+msgid "Add the Tooltip text"
+msgstr "افزودن متن Tooltip "
+
+# @ vibe-shortcodes
+#: tinymce/config.php:206
+msgid "Total delay in finishing counter"
+msgstr "جمع تاخیر در پایان کار شمارنده"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:207
+msgid "Add the total duration of counter increment"
+msgstr "افزودن کل مدت زمان افزایش شمارنده"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:212
+msgid "Increment unit"
+msgstr "واحد افزایش"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:213
+msgid "Increment the counter by this value"
+msgstr "افزایش شمارنده با این مقدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:217
+msgid "Insert Counter Shortcode"
+msgstr "افزودن کد کوتاه شمارنده"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:230
+msgid "Icon type"
+msgstr "نوع آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:231 tinymce/config.php:521
+msgid "Select Icon type"
+msgstr "انتخاب نوع آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:236 tinymce/config.php:237
+msgid "Icon Size"
+msgstr "سایز آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:246
+msgid "Custom Style"
+msgstr "استایل دلخواه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:247
+msgid "icon style"
+msgstr "استایل آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:256 tinymce/config.php:257 tinymce/config.php:268
+msgid "Icon Color"
+msgstr "رنگ آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:262
+msgid "Icon Bg Color"
+msgstr "رنگ Bg آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:263 tinymce/config.php:274
+msgid "Icon Background color"
+msgstr "رنگ پس زمینه آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:267
+msgid "Icon Hover Color"
+msgstr "رنگ Hover آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:273
+msgid "Icon Hover Bg Color"
+msgstr "رنگ Hover Bg آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:278
+msgid "Icon padding"
+msgstr "padding آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:279
+msgid "Icon Background padding"
+msgstr "padding پس زمینه آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:286
+msgid "Icon Bg Radius"
+msgstr "Bg Radius آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:287
+msgid "Icon Background radius"
+msgstr "radius پس زمینه آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:296
+msgid "Insert Icon Shortcode"
+msgstr "افزودن کد کوتاه آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:309
+msgid "Alert Style"
+msgstr "استایل هشدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:310
+msgid "Select the alert's style, ie the alert colour"
+msgstr "انتخاب استایل هشدار، ie the alert colour"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:322
+msgid "Alert Bg Color"
+msgstr "رنگ Bg هشدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:327
+msgid "Alert Border Color"
+msgstr "رنگ Border هشدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:328
+msgid "Border color"
+msgstr "رنگ Border "
+
+# @ vibe-shortcodes
+#: tinymce/config.php:332 tinymce/config.php:468
+msgid "Text Color"
+msgstr "رنگ متن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:333
+msgid "Alert Text color"
+msgstr "رنگ متن هشدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:338
+msgid "Alert Text"
+msgstr "متن هشدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:339
+msgid "Add the alert's text"
+msgstr "افزودن متن هشدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:344
+msgid "Insert Alert Shortcode"
+msgstr "افزودن کد کوتاه هشدار"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:357
+msgid "Tooltip Text"
+msgstr "متن Tooltip"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:363
+msgid "Tooltip Anchor"
+msgstr "Tooltip Anchor"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:364
+msgid "Add the Tooltip anchor"
+msgstr "افزودن Tooltip Anchor"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:369
+msgid "Insert Tooltip Shortcode"
+msgstr "افزودن کد کوتاه Tooltip "
+
+# @ vibe-shortcodes
+#: tinymce/config.php:383 tinymce/config.php:441
+msgid "Percentage Cover"
+msgstr "درصد پوشش"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:384 tinymce/config.php:442
+msgid "Only number eg:20"
+msgstr "فقط عدد  eg:20"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:389
+msgid "Style"
+msgstr "استایل"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:390
+msgid "Tron or Custom"
+msgstr "Tron یا دلخواه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:399
+msgid "Circle Diameter"
+msgstr "قطر دایره"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:400
+msgid "In pixels eg: 100"
+msgstr "به پیکسل eg: 100"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:405
+msgid "Circle Thickness"
+msgstr "ضخامت دایره"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:406
+msgid "In percentage"
+msgstr "به درصد"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:410
+msgid "Progress  Text Color"
+msgstr "رنگ متن پیشرفت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:411
+msgid "Progress  Text color"
+msgstr "رنگ متن پیشرفت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:415
+msgid "Progress Circle Color"
+msgstr "رنگ دایره پیشرفت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:416
+msgid "Progress Circle color"
+msgstr "رنگ دایره پیشرفت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:421 tinymce/config.php:448
+msgid "Some Content"
+msgstr "محتوای نمونه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:422 tinymce/config.php:449
+msgid "like : 20% Skill, shortcodes/html allowed"
+msgstr "مانند: %20 تخصص، کد کوتاه/HTML پذیرفته می شود"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:427
+msgid "Insert Round Progress Shortcode"
+msgstr "افزودن کد کوتاه پیشرفت دایره ای"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:453
+msgid "Color"
+msgstr "رنگ"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:454
+msgid "Select progressbar color"
+msgstr "انتخاب رنگ نوار پیشرفت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:463
+msgid "Stripe Bg Color"
+msgstr "رنگ Bg راه راه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:464
+msgid "Stripe Background color"
+msgstr "رنگ پس زمینه راه راه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:469
+msgid "Stripe Text color"
+msgstr "رنگ پس زمینه راه راه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:473
+msgid "Insert Progressbar Shortcode"
+msgstr "درج کد کوتاه نوار پیشرفت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:488
+msgid "Tabs Style"
+msgstr "استایل تب ها"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:489
+msgid "select a style"
+msgstr "انتخاب استایل"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:499
+msgid "Tabs theme"
+msgstr "پوسته تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:500
+msgid "select a theme"
+msgstr "انتخاب پوسته"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:508
+msgid "Insert Tab Shortcode"
+msgstr "درج کد کوتاه تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:515
+msgid "Tab Title"
+msgstr "عنوان تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:516
+msgid "Title of the tab"
+msgstr "عنوان تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:520
+msgid "Title Icon"
+msgstr "آیکن تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:526
+msgid "Tab Content"
+msgstr "محتوای تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:527
+msgid "Add the tabs content"
+msgstr "افزودن محتوای تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:531
+msgid "Add Tab"
+msgstr "افزودن تب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:548
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:549
+msgid "Background color & theme of note"
+msgstr "رنگ پس زمینه و پوسته یادداشت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:574 tinymce/config.php:753
+msgid "Content"
+msgstr "محتوا"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:575
+msgid "Note Content, supports HTML/Shortcodes"
+msgstr "محتوای یادداست. HTML/کدهای کوتاه پشتیبانی می شود"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:580
+msgid "Insert Note Shortcode"
+msgstr "درج کد کوتاه یادداشت"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:595
+msgid "Divider Class"
+msgstr "کلاس جداکننده"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:596
+msgid ""
+"clear : To begin form new line. Change Size using : one_third,one_fourth,"
+"one_fifth,two_third. Use multiple styles space saperated"
+msgstr ""
+"clear : برای شروع از خط جدید. تغییر سایز با استفاده از: one_third,one_fourth,"
+"one_fifth,two_third. برای استایل چندتایی، استایل های مورد نظر خود را با "
+"فاصله از هم جدا کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:601
+msgid "Insert Divider Shortcode"
+msgstr "درج کد کوتاه جدا کننده"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:613
+msgid "Tagline Style"
+msgstr "استایل Tagline"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:614
+msgid "Select the Tagline style"
+msgstr "انتخاب استایل Tagline"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:645
+msgid "Tagline"
+msgstr "Tagline"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:646
+msgid "Supports HTML content"
+msgstr "از محتوای HTML پشتیبانی می کند"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:651
+msgid "Insert Tagline Shortcode"
+msgstr "درج کد کوتاه Tagline "
+
+# @ vibe-shortcodes
+#: tinymce/config.php:666
+msgid "Enter Popup ID"
+msgstr "شناسه پاپ آپ را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:670
+msgid "Anchor Style"
+msgstr "استایل Anchor "
+
+# @ vibe-shortcodes
+#: tinymce/config.php:680
+msgid "Popup/Modal Anchor"
+msgstr "Anchor پاپ آپ/Modal"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:681
+msgid "Supports HTML & Shortcodes"
+msgstr "از HTML و کد های کوتاه پشتیبانی می کند"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:686
+msgid "Show Popup on Page-load"
+msgstr "نمایش پاپ آپ در لود صفحه"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:692
+msgid "Insert Popups Shortcode"
+msgstr "درج کد کوتاه پاپ آپ"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:705
+msgid "Enter Testimonial ID"
+msgstr "شناسه نظر کاربر را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:710
+msgid "Number of Characters to show"
+msgstr "تعداد کاراکترها برای نمایش"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:711
+msgid ""
+"If number of characters entered above is less than Testimonial Post length, "
+"Read more link will appear"
+msgstr ""
+"اگر تعداد کاراکترهایی که در بالا وارد کردید کمتر از طول نظر کاربر باشد، لینک "
+"بیشتر بخوانید نمایش داده خواهد شد."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:715
+msgid "Insert Testimonial Shortcode"
+msgstr "درج کد کوتاه نظر کاربر"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:728
+msgid "Enter Course ID"
+msgstr "شناسه دوره را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:732
+msgid "Insert Course Shortcode"
+msgstr "درج کد کوتاه دوره"
+
+#: tinymce/config.php:745
+msgid "Select Side"
+msgstr "انتخاب Side"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:757
+msgid "Insert PullQuote Shortcode"
+msgstr "وارد کردن کد کوتاه PullQuote"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:771
+msgid "Member Image"
+msgstr "تصویر عضو"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:772
+msgid "Image url of team member"
+msgstr "url تصویر عضو تیم"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:777
+msgid "Member Name"
+msgstr "نام عضو"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:778
+msgid "Name of team member (HTML allowed)"
+msgstr "نام عضو تیم (HTML مجاز است)"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:783
+msgid "Designation"
+msgstr "تخصص"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:784
+msgid "Designation of Team Member (HTML allowed)"
+msgstr "تخصص عضو تیم  (HTML مجاز است)"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:788
+msgid "Insert Team Member Shortcode"
+msgstr "وارد کردن کد کوتاه عضو تیم"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:793 tinymce/config.php:871
+msgid "Social Icon"
+msgstr "آیکن اجتماعی"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:798
+msgid "Icon Link"
+msgstr "لینک آیکن"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:802
+msgid "Add Social Information"
+msgstr "افزودن اطلاعات اجتماعی"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:817
+msgid "End Map Iframe code"
+msgstr "کد End Map Iframe"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:818
+msgid "Enter your map iframce code including iframe tags"
+msgstr "کد map iframce خود که شامل iframe tags است را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:823
+msgid "Insert Google Maps Shortcode"
+msgstr "افزودن کد کوتاه نقشه گوگل"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:838
+msgid "Select Thumb Size"
+msgstr "انتخاب سایز بندانگشتی"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:839
+msgid "Image size"
+msgstr "سایز تصویر"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:852
+msgid "Attachment Ids"
+msgstr "شناسه های ضمایم"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:853
+msgid "Attachment Ids separated by comma"
+msgstr "شناسه های ضمایم جدا شده با کاما"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:858
+msgid "Insert Gallery Shortcode"
+msgstr "افزودن کد کوتاه گالری"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:872
+msgid "Select Elastic Social Icon, takes size/color of text it is inserted in:"
+msgstr ""
+"انتخاب آیکن اجتماعی Elastic، سایز/رنگ متنی را که در اینجا وارد شده بردارید:"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:877
+msgid "Size in pixels"
+msgstr "سایز به پیکسل"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:878
+msgid "Enter Elastic font size in pixels "
+msgstr "سایز فونت Elastic  را به پیکسل وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:883
+msgid "Insert Social Icon Shortcode"
+msgstr "افزودن کد کوتاه اجتماعی"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:897
+msgid "Enter email"
+msgstr "ایمیل را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:898
+msgid "Email is sent to this email. Use comma for multiple entries"
+msgstr ""
+"ایمیل به این آدرس ارسال می گردد. برای ارسال به چندین آدرس، ایمیل های مقصد را "
+"بصورت جدا شده با کاما وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:903
+msgid "Email Subject"
+msgstr "موضوع ایمیل"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:904
+msgid "Subject of email"
+msgstr "موضوع ایمیل"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:908
+msgid "Generate ContactForm Shortcode"
+msgstr "تولید کد کوتاه فرم تماس"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:914
+msgid "Label Text"
+msgstr "متن برچسب"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:919
+msgid "Form Element"
+msgstr "عنصر فرم"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:920 tinymce/config.php:938
+msgid "select Form element type"
+msgstr "انتخاب نوع عنصر فرم"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:932
+msgid "Enter Select Options"
+msgstr "آیتم های انتخاب را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:933
+msgid "Comma seperated options."
+msgstr "آیتم ها با کاما جدا شده."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:937
+msgid "Validation"
+msgstr "اعتبارسنجی"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:950
+msgid "Add Form Element"
+msgstr "افزودن عنصر فرم"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:965
+msgid "Enter Heading"
+msgstr " Heading را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:966
+msgid "Enter heading."
+msgstr "Heading را وارد کنید."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:970
+msgid "Insert Heading Shortcode"
+msgstr "درج کد کوتاه Heading "
+
+# @ vibe-shortcodes
+#: tinymce/config.php:983
+msgid "Enter Video iframe Code"
+msgstr "کد iframe ویدئو را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:984
+msgid "For Responsive iframe videos form Youtube, Vimeo,bliptv etc..."
+msgstr "برای ویدئوهای iframe واکنشگرا از Youtube, Vimeo,bliptv غیره..."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:988
+msgid "Insert iFrame Video Shortcode"
+msgstr "درج کد کوتاه ویدئو iFrame "
+
+# @ vibe-shortcodes
+#: tinymce/config.php:1001
+msgid "Enter Iframe Height"
+msgstr "ارتفاع Iframe را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:1002
+msgid "Set iframe height"
+msgstr "تنظیم ارتفاع iframe"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:1007
+msgid "Enter iframe URL"
+msgstr "iframe URL را وارد کنید"
+
+# @ vibe-shortcodes
+#: tinymce/config.php:1008
+msgid ""
+"For Responsive iframe based content, like Articulate storyline, iSpring "
+"content etc..."
+msgstr ""
+"برای محتوای iframe ایه واکنشگرا، مانند Articulate storyline، محتوای iSpring  "
+"و غیره ..."
+
+# @ vibe-shortcodes
+#: tinymce/config.php:1012
+msgid "Insert iFrame Shortcode"
+msgstr "درج کد کوتاه iFrame "

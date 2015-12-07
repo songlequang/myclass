@@ -1,0 +1,1092 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Dashboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-23 20:28+0530\n"
+"PO-Revision-Date: 2015-06-23 20:28+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Atlasyar <info@atlasyar.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"dashboard\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "لطفا نام کاربری Envato Marketplace  را وارد کنید"
+
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "لطفا Envato Marketplace API Key را وارد کنید"
+
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"set\"  ضروری است"
+
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr " Envato Marketplace \"item ID\"  ضروری است"
+
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "هنگام درخواست API خطایی رخ داده"
+
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "دوباره سعی کنید"
+
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "خطای ناشناخته"
+
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"افزونه به روز رسانی شد اما در فعال کردن آن مشکلی بروز کرده لطفا افزونه را به "
+"صورت دستی فعال کنید"
+
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "افزونه با موفقیت به روز رسانی شد"
+
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "افزونه به روز رسانی شد"
+
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری: "
+
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "رایانامه"
+
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید: "
+
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr "<p>به روز رسانی افزونه شما <span style=\"color:green\">فعال</span></p>"
+
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\">اجازه ندارید</span>, به روز رسانی "
+"خودکار<span style=\"color:red\">غیر فعال است</span>.</p>"
+
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به فعال کردن به روز رساانی نیست.</p>"
+
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "اضافه کردن کلید"
+
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "رایانامه"
+
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری تم فارست (ضروری)"
+
+#: includes/dashboard.php:47 includes/dashboard.php:61
+msgid "Dashboard"
+msgstr "صفحه شخصی"
+
+#: includes/dashboard.php:76 includes/widgets/student/news.php:194
+#: includes/widgets/student/news.php:232 includes/widgets/student/news.php:233
+#: includes/widgets/student/news.php:234
+msgid "News"
+msgstr "اخبار"
+
+#: includes/functions.php:30
+#: includes/widgets/instructor/instructor_commissions.php:55
+msgid "Earnings"
+msgstr "درآمد ها"
+
+#: includes/functions.php:31
+msgid "Payout"
+msgstr ""
+
+#: includes/functions.php:32
+#, fuzzy
+msgid "# Students"
+msgstr "همه دانش پذیران"
+
+#: includes/functions.php:33
+#, fuzzy
+msgid "SAVED"
+msgstr "ذخیره"
+
+#: includes/functions.php:34
+msgid "SAVING ..."
+msgstr ""
+
+#: includes/functions.php:35
+msgid "Stats Calculated, reloading page ..."
+msgstr ""
+
+#: includes/functions.php:54
+msgid "Student Sidebar"
+msgstr "نوار کناری دانش پذیر"
+
+#: includes/functions.php:60
+msgid "This is the dashboard sidebar for Students"
+msgstr "این نوار کناری داشبورد دانش پذیر است"
+
+#: includes/functions.php:63
+msgid "Instructor Sidebar"
+msgstr "نوار کناری استاد"
+
+#: includes/functions.php:69
+msgid "This is the dashboard sidebar for Instructors"
+msgstr "اینن نوار کناری اساتید است"
+
+#: includes/news_template.php:23
+msgid "Course News"
+msgstr "اخبار دوره ها"
+
+#: includes/news_template.php:38
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: includes/news_template.php:44
+msgid "No news available for Course"
+msgstr "اخبار جدیدی در مورد دوره وجود ندارد"
+
+#: includes/widgets/instructor/announcements.php:14
+msgid "announcement Widget for Dashboard"
+msgstr "ابزارک اعلان برای پیشخوان"
+
+#: includes/widgets/instructor/announcements.php:16
+msgid " DASHBOARD : Instructor announcement Widget"
+msgstr "پیشخوان: ابزارک اعلان استاد"
+
+#: includes/widgets/instructor/announcements.php:63
+msgid "Add announcement"
+msgstr "افزودن اعلان"
+
+#: includes/widgets/instructor/announcements.php:64
+msgid "Send announcement to student in courses"
+msgstr "فرستادن اعلامیه به دانش پذیران دوره ها"
+
+#: includes/widgets/instructor/announcements.php:70
+msgid "All Students"
+msgstr "همه دانش پذیران"
+
+#: includes/widgets/instructor/announcements.php:71
+msgid "Students who are pursuing the course"
+msgstr "دانش پذیرانی که دوره را دنبال می کنند"
+
+#: includes/widgets/instructor/announcements.php:72
+msgid "Students who finished the coruse"
+msgstr "دانش پذیرانی که دوره را به اتمام رسانده اند"
+
+#: includes/widgets/instructor/announcements.php:80
+msgid "Submit"
+msgstr "ثبت نام"
+
+#: includes/widgets/instructor/announcements.php:98
+msgid "announcement"
+msgstr "اعلان"
+
+#: includes/widgets/instructor/announcements.php:107
+#: includes/widgets/instructor/dash_instructor_stats.php:270
+#: includes/widgets/instructor/instructing_modules.php:176
+#: includes/widgets/instructor/instructor_commissions.php:134
+#: includes/widgets/instructor/instructor_stats.php:171
+#: includes/widgets/student/activity_widget.php:181
+#: includes/widgets/student/calendar.php:104
+#: includes/widgets/student/contact_users.php:96
+#: includes/widgets/student/course_progress.php:136
+#: includes/widgets/student/dash_stats.php:203
+#: includes/widgets/student/my_modules.php:217
+#: includes/widgets/student/news.php:204
+#: includes/widgets/student/notes_discussions.php:111
+#: includes/widgets/student/student_stats.php:321
+#: includes/widgets/student/text_widget.php:66
+#: includes/widgets/student/todo_task.php:92
+msgid "Title:"
+msgstr "عنوان: "
+
+#: includes/widgets/instructor/announcements.php:112
+#: includes/widgets/instructor/dash_instructor_stats.php:295
+#: includes/widgets/instructor/instructing_modules.php:200
+#: includes/widgets/instructor/instructor_commissions.php:138
+#: includes/widgets/instructor/instructor_stats.php:183
+#: includes/widgets/student/activity_widget.php:201
+#: includes/widgets/student/calendar.php:116
+#: includes/widgets/student/contact_users.php:104
+#: includes/widgets/student/course_progress.php:148
+#: includes/widgets/student/dash_stats.php:217
+#: includes/widgets/student/my_modules.php:245
+#: includes/widgets/student/news.php:212
+#: includes/widgets/student/notes_discussions.php:119
+#: includes/widgets/student/student_stats.php:361
+#: includes/widgets/student/text_widget.php:75
+#: includes/widgets/student/todo_task.php:104
+msgid "Select Width"
+msgstr "انتخاب عرض"
+
+#: includes/widgets/instructor/announcements.php:114
+#: includes/widgets/instructor/dash_instructor_stats.php:297
+#: includes/widgets/instructor/instructing_modules.php:202
+#: includes/widgets/instructor/instructor_commissions.php:140
+#: includes/widgets/instructor/instructor_stats.php:185
+#: includes/widgets/student/activity_widget.php:203
+#: includes/widgets/student/calendar.php:118
+#: includes/widgets/student/contact_users.php:106
+#: includes/widgets/student/course_progress.php:150
+#: includes/widgets/student/dash_stats.php:219
+#: includes/widgets/student/my_modules.php:247
+#: includes/widgets/student/news.php:214
+#: includes/widgets/student/notes_discussions.php:121
+#: includes/widgets/student/student_stats.php:363
+#: includes/widgets/student/text_widget.php:77
+#: includes/widgets/student/todo_task.php:106
+msgid "One Fourth"
+msgstr "یک چهارم"
+
+#: includes/widgets/instructor/announcements.php:115
+#: includes/widgets/instructor/dash_instructor_stats.php:298
+#: includes/widgets/instructor/instructing_modules.php:203
+#: includes/widgets/instructor/instructor_commissions.php:141
+#: includes/widgets/instructor/instructor_stats.php:186
+#: includes/widgets/student/activity_widget.php:204
+#: includes/widgets/student/calendar.php:119
+#: includes/widgets/student/contact_users.php:107
+#: includes/widgets/student/course_progress.php:151
+#: includes/widgets/student/dash_stats.php:220
+#: includes/widgets/student/my_modules.php:248
+#: includes/widgets/student/news.php:215
+#: includes/widgets/student/notes_discussions.php:122
+#: includes/widgets/student/student_stats.php:364
+#: includes/widgets/student/text_widget.php:78
+#: includes/widgets/student/todo_task.php:107
+msgid "One Third"
+msgstr "یک سوم"
+
+#: includes/widgets/instructor/announcements.php:116
+#: includes/widgets/instructor/dash_instructor_stats.php:299
+#: includes/widgets/instructor/instructing_modules.php:204
+#: includes/widgets/instructor/instructor_commissions.php:142
+#: includes/widgets/instructor/instructor_stats.php:187
+#: includes/widgets/student/activity_widget.php:205
+#: includes/widgets/student/calendar.php:120
+#: includes/widgets/student/contact_users.php:108
+#: includes/widgets/student/course_progress.php:152
+#: includes/widgets/student/dash_stats.php:221
+#: includes/widgets/student/my_modules.php:249
+#: includes/widgets/student/news.php:216
+#: includes/widgets/student/notes_discussions.php:123
+#: includes/widgets/student/student_stats.php:365
+#: includes/widgets/student/text_widget.php:79
+#: includes/widgets/student/todo_task.php:108
+msgid "One Half"
+msgstr "نصف"
+
+#: includes/widgets/instructor/announcements.php:117
+#: includes/widgets/instructor/dash_instructor_stats.php:300
+#: includes/widgets/instructor/instructing_modules.php:205
+#: includes/widgets/instructor/instructor_commissions.php:143
+#: includes/widgets/instructor/instructor_stats.php:188
+#: includes/widgets/student/activity_widget.php:206
+#: includes/widgets/student/calendar.php:121
+#: includes/widgets/student/contact_users.php:109
+#: includes/widgets/student/course_progress.php:153
+#: includes/widgets/student/dash_stats.php:222
+#: includes/widgets/student/my_modules.php:250
+#: includes/widgets/student/news.php:217
+#: includes/widgets/student/notes_discussions.php:124
+#: includes/widgets/student/student_stats.php:366
+#: includes/widgets/student/text_widget.php:80
+#: includes/widgets/student/todo_task.php:109
+msgid "Two Third"
+msgstr "دو سوم"
+
+#: includes/widgets/instructor/announcements.php:118
+#: includes/widgets/instructor/dash_instructor_stats.php:301
+#: includes/widgets/instructor/instructing_modules.php:206
+#: includes/widgets/instructor/instructor_commissions.php:144
+#: includes/widgets/instructor/instructor_stats.php:189
+#: includes/widgets/student/activity_widget.php:207
+#: includes/widgets/student/calendar.php:122
+#: includes/widgets/student/contact_users.php:110
+#: includes/widgets/student/course_progress.php:154
+#: includes/widgets/student/dash_stats.php:223
+#: includes/widgets/student/my_modules.php:251
+#: includes/widgets/student/news.php:218
+#: includes/widgets/student/notes_discussions.php:125
+#: includes/widgets/student/student_stats.php:367
+#: includes/widgets/student/text_widget.php:81
+#: includes/widgets/student/todo_task.php:110
+msgid "Three Fourth"
+msgstr "سه چهارم"
+
+#: includes/widgets/instructor/announcements.php:119
+#: includes/widgets/instructor/dash_instructor_stats.php:302
+#: includes/widgets/instructor/instructing_modules.php:207
+#: includes/widgets/instructor/instructor_commissions.php:145
+#: includes/widgets/instructor/instructor_stats.php:190
+#: includes/widgets/student/activity_widget.php:208
+#: includes/widgets/student/calendar.php:123
+#: includes/widgets/student/contact_users.php:111
+#: includes/widgets/student/course_progress.php:155
+#: includes/widgets/student/dash_stats.php:224
+#: includes/widgets/student/my_modules.php:252
+#: includes/widgets/student/news.php:219
+#: includes/widgets/student/notes_discussions.php:126
+#: includes/widgets/student/student_stats.php:368
+#: includes/widgets/student/text_widget.php:82
+#: includes/widgets/student/todo_task.php:111
+msgid "Full"
+msgstr "عرض کامل"
+
+#: includes/widgets/instructor/announcements.php:127
+#: includes/widgets/instructor/announcements.php:229
+#: includes/widgets/instructor/instructor_commissions.php:156
+#: includes/widgets/instructor/instructor_stats.php:199
+#: includes/widgets/instructor/instructor_stats.php:295
+#: includes/widgets/student/contact_users.php:209
+msgid "Security error"
+msgstr "خطای امنیتی"
+
+#: includes/widgets/instructor/announcements.php:134
+msgid "Please enter some text for announcement"
+msgstr "لطفا متنی برای اعلان وارد کنید"
+
+#: includes/widgets/instructor/announcements.php:138
+msgid "Course list not set"
+msgstr "فهرست دوره تنظیم نشده"
+
+#: includes/widgets/instructor/announcements.php:155
+msgid "announcement successfully delivered"
+msgstr "اعلان با موفقیت تحویل داده شد"
+
+#: includes/widgets/instructor/announcements.php:214
+msgid "CLICK TO EXPAND"
+msgstr "برای باز شدن کلیک کنید"
+
+#: includes/widgets/instructor/announcements.php:215
+#, php-format
+msgid "You have %s announcements"
+msgstr "شما %s اعلان دارید"
+
+#: includes/widgets/instructor/announcements.php:238
+msgid "Unable to remove annoucement"
+msgstr "قادر به حذف اعلان نمی باشید"
+
+#: includes/widgets/instructor/break.php:13
+msgid "Line Widget for Dashboard"
+msgstr "ویجت خط برای داشبورد"
+
+#: includes/widgets/instructor/break.php:15
+msgid " DASHBOARD : Line Break"
+msgstr "داشبورد: خط جدا کننده"
+
+#: includes/widgets/instructor/break.php:43
+msgid "Line Break : New Line"
+msgstr "خط جدا کننده: خط جدید"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:13
+msgid "Simple stats scores for instructors"
+msgstr "نمرات آمار ساده برای اساتید"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:15
+msgid " DASHBOARD : Instructor Simple Stats"
+msgstr "داشبورد: آمار ساده استاد"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:73
+msgid "Total Commission Earned"
+msgstr "همه کمیسیون ها دریافت شده"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:92
+msgid "Courses Instructing"
+msgstr "دوره های در حال آموزش"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:112
+msgid "Quizzes Created"
+msgstr "آزمون ها ساخته شدند"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:131
+msgid "Units Created"
+msgstr "واحد ها"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:150
+msgid "Assignments Created"
+msgstr "تکالیف"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:169
+msgid "Questions Created"
+msgstr "سوالات"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:189
+msgid "Badges Awarded"
+msgstr "نشان ها "
+
+#: includes/widgets/instructor/dash_instructor_stats.php:211
+msgid "Certificates awarded"
+msgstr "گواهینامه ها"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:260
+#: includes/widgets/instructor/instructor_commissions.php:126
+msgid "Instructor Stats"
+msgstr "آمار استاد"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:274
+#: includes/widgets/student/dash_stats.php:207
+msgid "Select Stats"
+msgstr "انتخاب آمار"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:279
+msgid "WooCommerce Earnings"
+msgstr "درآمد"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:280
+msgid "Number of courses"
+msgstr "تعداد دوره ها"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:281
+msgid "Number of Quizzes"
+msgstr "تعداد آزمون ها"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:282
+msgid "Number of assignments"
+msgstr "تعداد تکالیف"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:283
+msgid "Number of questions"
+msgstr "تعداد سولات"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:284
+msgid "Number of units"
+msgstr "تعداد واحد ها"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:285
+msgid "Number of badges"
+msgstr "تعداد نشان ها"
+
+#: includes/widgets/instructor/dash_instructor_stats.php:286
+msgid "Number of certificates"
+msgstr "تعداد گواهینامه های پایان دوره"
+
+#: includes/widgets/instructor/instructing_modules.php:13
+#, fuzzy
+msgid "Instructing Modules  Widget for Dashboard"
+msgstr "ویجت خط برای داشبورد"
+
+#: includes/widgets/instructor/instructing_modules.php:15
+#, fuzzy
+msgid " DASHBOARD : Instructing Modules"
+msgstr "داشبورد: آمار استاد"
+
+#: includes/widgets/instructor/instructing_modules.php:42
+#: includes/widgets/instructor/instructor_stats.php:45
+#: includes/widgets/student/my_modules.php:39
+#: includes/widgets/student/student_stats.php:50
+msgid "Courses"
+msgstr "دوره ها"
+
+#: includes/widgets/instructor/instructing_modules.php:45
+#: includes/widgets/student/my_modules.php:42
+msgid "Quizzes"
+msgstr "آزمون ها"
+
+#: includes/widgets/instructor/instructing_modules.php:48
+#: includes/widgets/student/my_modules.php:45
+#: includes/widgets/student/student_stats.php:56
+msgid "Assignments"
+msgstr "تکالیف"
+
+#: includes/widgets/instructor/instructing_modules.php:51
+#: includes/widgets/student/my_modules.php:48
+msgid "Units"
+msgstr "جلسه ها"
+
+#: includes/widgets/instructor/instructing_modules.php:71
+#: includes/widgets/student/my_modules.php:78
+msgid "No Courses found"
+msgstr "هیچ دوره ای پیدا نشد"
+
+#: includes/widgets/instructor/instructing_modules.php:92
+#: includes/widgets/student/my_modules.php:100
+msgid "No quizzes found"
+msgstr "هیچ آزمونی پیدا نشد"
+
+#: includes/widgets/instructor/instructing_modules.php:113
+#: includes/widgets/student/my_modules.php:122
+msgid "No assignments found"
+msgstr "هیچ تکلیفی پیدا نشد"
+
+#: includes/widgets/instructor/instructing_modules.php:136
+#: includes/widgets/student/my_modules.php:146
+msgid "No units found"
+msgstr "هیچ جلسه ای پیدا نشد"
+
+#: includes/widgets/instructor/instructing_modules.php:163
+#, fuzzy
+msgid "Instructing Modules"
+msgstr "استاد"
+
+#: includes/widgets/instructor/instructing_modules.php:180
+#: includes/widgets/student/my_modules.php:221
+msgid "Show My Courses"
+msgstr "نمایش دوره های من"
+
+#: includes/widgets/instructor/instructing_modules.php:184
+#: includes/widgets/student/my_modules.php:225
+msgid "Show My Quizzes"
+msgstr "نمایش آزمون های من"
+
+#: includes/widgets/instructor/instructing_modules.php:188
+#: includes/widgets/student/my_modules.php:229
+msgid "Show My Assignments"
+msgstr "نمایش تکالیف من"
+
+#: includes/widgets/instructor/instructing_modules.php:192
+#: includes/widgets/student/my_modules.php:233
+msgid "Show My Units"
+msgstr "نمایش جلسات من"
+
+#: includes/widgets/instructor/instructing_modules.php:196
+#: includes/widgets/student/activity_widget.php:185
+#: includes/widgets/student/my_modules.php:241
+msgid "Number of items"
+msgstr "تعداد آیتم ها"
+
+#: includes/widgets/instructor/instructor_commissions.php:13
+msgid "WooCommerce Commission Stats  for instructors"
+msgstr "آمار کمیسیون استاد"
+
+#: includes/widgets/instructor/instructor_commissions.php:15
+msgid " DASHBOARD : Instructor Commission Stats"
+msgstr "داشبورد: آمار کمیسیون استاد "
+
+#: includes/widgets/instructor/instructor_commissions.php:55
+msgid "Course"
+msgstr "دوره"
+
+#: includes/widgets/instructor/instructor_commissions.php:63
+#, fuzzy
+msgid "Commissions Paid"
+msgstr "همه کمیسیون ها دریافت شده"
+
+#: includes/widgets/instructor/instructor_commissions.php:74
+msgid "No data found"
+msgstr "اطلاعاتی یافت نشد"
+
+#: includes/widgets/instructor/instructor_commissions.php:323
+msgid "No courses found for Instructor"
+msgstr "دوره ای برای استاد یافت نشد"
+
+#: includes/widgets/instructor/instructor_stats.php:14
+msgid "Instructor Statistics widget"
+msgstr "ویجت استاتیک استاد"
+
+#: includes/widgets/instructor/instructor_stats.php:16
+msgid " DASHBOARD : Instructor Stats"
+msgstr "داشبورد: آمار استاد"
+
+#: includes/widgets/instructor/instructor_stats.php:59
+msgid "No courses created by instructor"
+msgstr "این استاد هیچ دوره ای ندارد"
+
+#: includes/widgets/instructor/instructor_stats.php:81
+msgid "Show Stats"
+msgstr "نمایش آمار"
+
+#: includes/widgets/instructor/instructor_stats.php:82
+msgid "Re-calculate Stats"
+msgstr "محاسبه مجدد آمار"
+
+#: includes/widgets/instructor/instructor_stats.php:83
+msgid "List Quiz / Assignments"
+msgstr "فهرست آزمون/ تکالیف"
+
+#: includes/widgets/instructor/instructor_stats.php:111
+#: includes/widgets/instructor/instructor_stats.php:127
+msgid "Average Score"
+msgstr "میانگین نمرات"
+
+#: includes/widgets/instructor/instructor_stats.php:158
+msgid "Instructor Statistics"
+msgstr "تصحیح های دستی استاد"
+
+#: includes/widgets/instructor/instructor_stats.php:175
+msgid "Set Range value (10 for 1/10)"
+msgstr "تنظیم محدوده ارزش (10 برای 1/10)"
+
+#: includes/widgets/instructor/instructor_stats.php:179
+msgid "Set Max course limit"
+msgstr "تنظیم حداکثر محدوده دوره"
+
+#: includes/widgets/instructor/instructor_stats.php:286
+msgid "No data available"
+msgstr "هیج اطلاعاتی در دست نیست"
+
+#: includes/widgets/instructor/instructor_stats.php:321
+#: includes/widgets/student/student_stats.php:53
+msgid "Quiz"
+msgstr "آزمون"
+
+#: includes/widgets/instructor/instructor_stats.php:325
+msgid "Assignment"
+msgstr "تکالیف"
+
+#: includes/widgets/student/activity_widget.php:14
+#: includes/widgets/student/calendar.php:14
+msgid "Recent activity from Student"
+msgstr "فعالیت های جدید دانش پذیر"
+
+#: includes/widgets/student/activity_widget.php:16
+msgid " DASHBOARD : Recent Activity"
+msgstr "داشبورد: فعالیت های جدید"
+
+#: includes/widgets/student/activity_widget.php:79
+msgid "Unread Messages"
+msgstr "پیام های خوانده نشده"
+
+#: includes/widgets/student/activity_widget.php:93
+msgid "No messages found"
+msgstr "پیامی یافت نشد"
+
+#: includes/widgets/student/activity_widget.php:100
+msgid "Friends Online"
+msgstr "دوستان برخط"
+
+#: includes/widgets/student/activity_widget.php:108
+msgid "No friends online"
+msgstr "هیج دوستی برخط نیست"
+
+#: includes/widgets/student/activity_widget.php:125
+msgid "Recent Activity"
+msgstr "فعالیت های جدید"
+
+#: includes/widgets/student/activity_widget.php:133
+#: includes/widgets/student/calendar.php:63
+msgid "AGO"
+msgstr "AGO"
+
+#: includes/widgets/student/activity_widget.php:141
+msgid "No activity found"
+msgstr "هیج فعالیتی یافت نشد"
+
+#: includes/widgets/student/activity_widget.php:167
+#: includes/widgets/student/calendar.php:92
+msgid "Student Activity"
+msgstr "فعالیت های دانش پذیر"
+
+#: includes/widgets/student/activity_widget.php:189
+msgid "Show recent messages"
+msgstr "نمایش پیام های جدید"
+
+#: includes/widgets/student/activity_widget.php:193
+msgid "Show recent activity"
+msgstr "نمایش فعالیت های جدید"
+
+#: includes/widgets/student/activity_widget.php:197
+msgid "Show online Friends"
+msgstr "نمایش دوستان برخط"
+
+#: includes/widgets/student/calendar.php:16
+msgid " DASHBOARD : Calendar"
+msgstr "داشبورد: تقویم"
+
+#: includes/widgets/student/calendar.php:56
+msgid "VIEW ALL"
+msgstr "مشاهده همه"
+
+#: includes/widgets/student/calendar.php:108
+#: includes/widgets/student/course_progress.php:140
+msgid "Number of activities in one screen"
+msgstr "تعداد فعالیت ها در یک صفحه"
+
+#: includes/widgets/student/calendar.php:112
+msgid "Show Me & My Friends Activity"
+msgstr "نمایش فعالیت من و دوستانم"
+
+#: includes/widgets/student/contact_users.php:14
+msgid "Contact form Widget"
+msgstr "ویجت کاربرگ تماس"
+
+#: includes/widgets/student/contact_users.php:16
+msgid " DASHBOARD : Contact Form"
+msgstr "داشبورد: کاربرگ تماس"
+
+#: includes/widgets/student/contact_users.php:53
+msgid "Select User group"
+msgstr "انتخاب کاربر گروه"
+
+#: includes/widgets/student/contact_users.php:54
+msgid "Select a user group"
+msgstr "انتخاب یک کاربر گروه"
+
+#: includes/widgets/student/contact_users.php:55
+msgid "Friends"
+msgstr "دوستان"
+
+#: includes/widgets/student/contact_users.php:56
+msgid "Instructor"
+msgstr "استاد"
+
+#: includes/widgets/student/contact_users.php:57
+msgid "Administrator"
+msgstr "مدیر"
+
+#: includes/widgets/student/contact_users.php:59
+msgid "Course Students"
+msgstr "دانش پذیران دوره"
+
+#: includes/widgets/student/contact_users.php:63
+msgid "Type name to auto-complete"
+msgstr "نام کامل"
+
+#: includes/widgets/student/contact_users.php:64
+msgid "Enter Subject"
+msgstr "موضوع"
+
+#: includes/widgets/student/contact_users.php:65
+msgid "Enter Message"
+msgstr "پیام را وارد کنید"
+
+#: includes/widgets/student/contact_users.php:66
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: includes/widgets/student/contact_users.php:86
+#: includes/widgets/student/dash_stats.php:193
+#: includes/widgets/student/my_modules.php:203
+#: includes/widgets/student/text_widget.php:56
+msgid "Contact Instructors"
+msgstr "تماس با اساتید"
+
+#: includes/widgets/student/contact_users.php:100
+msgid "Show User select dropdown"
+msgstr "نمایش لیس آبشاری کاربران"
+
+#: includes/widgets/student/contact_users.php:218
+msgid "Please enter to/subject/message"
+msgstr "لطفا نام گیرنده/ موضوع/ متن پیام را وارد کنید"
+
+#: includes/widgets/student/contact_users.php:228
+#, php-format
+msgid "Message sent to %s members"
+msgstr "پیام به %s کاربران ارسال شد"
+
+#: includes/widgets/student/course_progress.php:14
+msgid "Student Progress in Courses"
+msgstr "دانش پذیران پیشرفت کرده در دوره"
+
+#: includes/widgets/student/course_progress.php:16
+msgid " DASHBOARD : Course Progress"
+msgstr "داشبورد: پیشرفت دوره"
+
+#: includes/widgets/student/course_progress.php:124
+msgid "Course Progress"
+msgstr "پیشرفت دوره"
+
+#: includes/widgets/student/course_progress.php:144
+msgid "Show Finished Courses"
+msgstr "نمایش دوره های تمام شده"
+
+#: includes/widgets/student/course_progress.php:191
+msgid "Security check failed !"
+msgstr "بررسی امنیتی شکست خورد!"
+
+#: includes/widgets/student/course_progress.php:196
+msgid " Incorrect User selected."
+msgstr "کاربر نادرست انتخاب شده است."
+
+#: includes/widgets/student/dash_stats.php:13
+msgid "Simple stats scores for students"
+msgstr "آمار ساده نمرات برای دانش پذیران"
+
+#: includes/widgets/student/dash_stats.php:15
+msgid " DASHBOARD : Simple Stats"
+msgstr "داشبورد: آمار ساده"
+
+#: includes/widgets/student/dash_stats.php:57
+msgid "Courses Completed"
+msgstr "دوره تکمیل شد"
+
+#: includes/widgets/student/dash_stats.php:90
+msgid "Assignments Completed"
+msgstr "تکالیف تکمیل شد"
+
+#: includes/widgets/student/dash_stats.php:124
+msgid "Quizzes Completed"
+msgstr "آزمون ها تکمیل شد"
+
+#: includes/widgets/student/dash_stats.php:153
+msgid "Units Completed"
+msgstr "واحد ها تکمیل شدند"
+
+#: includes/widgets/student/dash_stats.php:210
+msgid "Finished Courses"
+msgstr "دوره های به اتمام رسیده"
+
+#: includes/widgets/student/dash_stats.php:211
+msgid "Finished Quizes"
+msgstr "آزمون های به اتمام رسیده"
+
+#: includes/widgets/student/dash_stats.php:212
+msgid "Finished Assignments"
+msgstr "تکالیف انجام شده"
+
+#: includes/widgets/student/dash_stats.php:213
+msgid "Finished Units"
+msgstr "واحد های به اتمام رسیده"
+
+#: includes/widgets/student/my_modules.php:13
+msgid "My Courses, Units, Quizzes, Assignments widget for Dashboard"
+msgstr "ابزارک دوره ها، جلسات، آزمون ها، تکالیف من برای پیشخوان"
+
+#: includes/widgets/student/my_modules.php:15
+msgid " DASHBOARD : My Modules Widget"
+msgstr "پیشخوان: ابزارک ماژول های من"
+
+#: includes/widgets/student/my_modules.php:51
+msgid "Downloads"
+msgstr "دانلودها"
+
+#: includes/widgets/student/my_modules.php:173
+msgid "No downloads found"
+msgstr "هیچ دانلودی پیدا نشد"
+
+#: includes/widgets/student/my_modules.php:237
+msgid "Show My Downloads"
+msgstr "نمایش دانلودهای من"
+
+#: includes/widgets/student/news.php:13
+msgid "News for Members"
+msgstr "اخبار کاربران"
+
+#: includes/widgets/student/news.php:15
+msgid " DASHBOARD : Member News"
+msgstr "داشبورد: اخبار کاربران"
+
+#: includes/widgets/student/news.php:171
+msgid "No news for you !"
+msgstr "اخباری برای شما نیست!"
+
+#: includes/widgets/student/news.php:208
+msgid "Maximum Number of New blocks in carousel"
+msgstr "حداکثر تعداد بلوک های خبری در چرخش"
+
+#: includes/widgets/student/news.php:235
+msgid "Add News"
+msgstr "اضافه کردن اخبار"
+
+#: includes/widgets/student/news.php:236
+msgid "All News"
+msgstr "همه اخبار"
+
+#: includes/widgets/student/news.php:256 includes/widgets/student/news.php:257
+#: includes/widgets/student/news.php:258
+msgid "News Tag"
+msgstr "برچسب اخبار"
+
+#: includes/widgets/student/news.php:259
+msgid "Add New Tag"
+msgstr "اضافه کردن برچسب اخبار"
+
+#: includes/widgets/student/news.php:260
+msgid "All News Tags"
+msgstr "همه برچسب های اخبار"
+
+#: includes/widgets/student/news.php:273
+msgid "Share with students in Course"
+msgstr "به اشتراک گذاری با دانش پذیران دوره"
+
+#: includes/widgets/student/news.php:274
+msgid "Student having access to this courses will get the news"
+msgstr ""
+"دانش پذیرانی که دسترسی به این دوره ها دارند، اخبار آن را دریافت خواهند کرد"
+
+#: includes/widgets/student/news.php:280
+msgid "Post Sub-Title"
+msgstr "زیر عنوان نوشته"
+
+#: includes/widgets/student/news.php:281
+msgid "Post Sub- Title."
+msgstr "زیر عنوان نوشته"
+
+#: includes/widgets/student/news.php:288
+msgid "News Settings"
+msgstr "تنظیمات اخبار"
+
+#: includes/widgets/student/notes_discussions.php:13
+msgid "Notes & Discussion Widget for Dashboard"
+msgstr "ابزارک یادداشت ها و گفتگو ها برای پیشخوان"
+
+#: includes/widgets/student/notes_discussions.php:15
+msgid " DASHBOARD : Notes & Discussion"
+msgstr "پیشخوان : یادداشت ها و گفتگو ها"
+
+#: includes/widgets/student/notes_discussions.php:41
+msgid "SEE ALL"
+msgstr "نمایش همه"
+
+#: includes/widgets/student/notes_discussions.php:43
+msgid "My Notes"
+msgstr "یادداشت های من"
+
+#: includes/widgets/student/notes_discussions.php:44
+msgid "My Discussions"
+msgstr "بحث و گفتگوهای من"
+
+#: includes/widgets/student/notes_discussions.php:101
+msgid "Notes& Discussion"
+msgstr "یادداشتها و گفتگوهای من"
+
+#: includes/widgets/student/notes_discussions.php:115
+msgid "Number of Notes/Dicussions"
+msgstr "تعداد یادداشت ها/گفتگو ها"
+
+#: includes/widgets/student/student_stats.php:14
+msgid "Student Statistics widget"
+msgstr "ویجت دانش پذیران استاتیک"
+
+#: includes/widgets/student/student_stats.php:16
+msgid " DASHBOARD : Student Stats"
+msgstr "داشبورد: آمار دانش پذیر"
+
+#: includes/widgets/student/student_stats.php:234
+#: includes/widgets/student/student_stats.php:253
+#: includes/widgets/student/student_stats.php:272
+msgid "MY MARKS"
+msgstr "نمرات من"
+
+#: includes/widgets/student/student_stats.php:234
+#: includes/widgets/student/student_stats.php:253
+#: includes/widgets/student/student_stats.php:272
+msgid "AVERAGE"
+msgstr "میانگین"
+
+#: includes/widgets/student/student_stats.php:306
+msgid "Student Statistics"
+msgstr "دانش پذیران استاتیک"
+
+#: includes/widgets/student/student_stats.php:325
+msgid "Show Course statistics"
+msgstr "نمایش دوره استاتیک"
+
+#: includes/widgets/student/student_stats.php:329
+msgid "Course Chart Style"
+msgstr "ساختار چارت دوره"
+
+#: includes/widgets/student/student_stats.php:331
+#: includes/widgets/student/student_stats.php:343
+#: includes/widgets/student/student_stats.php:355
+msgid "LINE CHART"
+msgstr "چارت خطی"
+
+#: includes/widgets/student/student_stats.php:332
+#: includes/widgets/student/student_stats.php:344
+#: includes/widgets/student/student_stats.php:356
+msgid "AREA CHART"
+msgstr "چارت مساحتی"
+
+#: includes/widgets/student/student_stats.php:333
+#: includes/widgets/student/student_stats.php:345
+#: includes/widgets/student/student_stats.php:357
+msgid "BAR CHART"
+msgstr "چارت میله ای"
+
+#: includes/widgets/student/student_stats.php:337
+msgid "Show Quiz statistics"
+msgstr "نمایش آزمون استاتیک"
+
+#: includes/widgets/student/student_stats.php:341
+#: includes/widgets/student/student_stats.php:353
+msgid "Quiz Chart Style"
+msgstr "ساختار چارت آزمون"
+
+#: includes/widgets/student/student_stats.php:349
+msgid "Show Assignments statistics"
+msgstr "نمایش تکالیف استاتیک"
+
+#: includes/widgets/student/text_widget.php:13
+msgid "Text Widget for Dashboard"
+msgstr "ویجت متن برای داشبورد"
+
+#: includes/widgets/student/text_widget.php:15
+msgid " DASHBOARD : Text Widget"
+msgstr "داشبورد: ویجت متنی"
+
+#: includes/widgets/student/text_widget.php:70
+msgid "Text Content"
+msgstr "محتوای متن "
+
+#: includes/widgets/student/todo_task.php:13
+msgid "To Do list Widget"
+msgstr "ویجت To Do list"
+
+#: includes/widgets/student/todo_task.php:15
+msgid " DASHBOARD : To Do Tasks"
+msgstr "داشبورد: To Do Tasks"
+
+#: includes/widgets/student/todo_task.php:50
+msgid "ADD NEW TASK"
+msgstr "وظیفه جدیدی اضافه کنید"
+
+#: includes/widgets/student/todo_task.php:60
+msgid "SAVE"
+msgstr "ذخیره"
+
+#: includes/widgets/student/todo_task.php:80
+msgid "To do List"
+msgstr "لیست To do"
+
+#: includes/widgets/student/todo_task.php:96
+msgid "Show task date"
+msgstr "نمایش تاریخ وظیفه"
+
+#: includes/widgets/student/todo_task.php:100
+msgid "Enable task priority"
+msgstr "فعال کردن اولویت وظیفه"
+
+#: includes/widgets/student/todo_task.php:120
+msgid "Security issue."
+msgstr "مشکل امنیتی"
+
+#: includes/widgets/student/todo_task.php:129
+msgid "Unable to Save"
+msgstr "قادر به ذخیره نیست"
+
+#~ msgid "Everyone"
+#~ msgstr "همه"
+
+#~ msgid "START"
+#~ msgstr "شروع"
+
+#~ msgid "CONTINUE"
+#~ msgstr "ادامه"
+
+#~ msgid "SUBMITTED"
+#~ msgstr "ارسال شده"
+
+#~ msgid "FINISHED"
+#~ msgstr "تمام شده"

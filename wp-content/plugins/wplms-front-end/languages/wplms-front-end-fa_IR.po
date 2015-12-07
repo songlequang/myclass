@@ -1,0 +1,1613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Front End\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-23 19:49+0530\n"
+"PO-Revision-Date: 2015-06-23 19:49+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Atlasyar <info@atlasyar.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wplms/wp-content/plugins/wplms-"
+"front-end\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wplms-front-end
+#: wplms-front-end.php:74
+msgid "Please change the course title"
+msgstr "لطفا عنوان دوره را تغییر دهید"
+
+# @ wplms-front-end
+#: wplms-front-end.php:75
+msgid "This will create a new course in the site, do you want to continue ?"
+msgstr "یک دوره جدید در سایت ایجاد خواهد شد. میخواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:76
+msgid "Yes, create a new course"
+msgstr "بلی، یک دوره جدید ایجاد شود"
+
+# @ wplms-front-end
+#: wplms-front-end.php:77
+msgid ""
+"This will overwrite the previous course settings, do you want to continue ?"
+msgstr "تنظیمات قبلی دوره بازنویسی خواهد شد، آیا می خواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:78
+msgid "Save course"
+msgstr "ذخیره دوره"
+
+# @ wplms-front-end
+#: wplms-front-end.php:79
+msgid "This will create a new unit in the site, do you want to continue ?"
+msgstr "یک جلسه جدید در سایت ایجاد خواهد شد. میخواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:80
+msgid "Yes, create a new unit"
+msgstr "بلی، یک جلسه جدید ایجاد شود"
+
+# @ wplms-front-end
+#: wplms-front-end.php:81
+msgid ""
+"This will overwrite the existing unit settings, do you want to continue ?"
+msgstr "تنظیمات فعلی جلسه خواهد شد، آیا میخواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:82
+msgid "Yes, save unit settings"
+msgstr "بلی، تنظیمات جلسه ذخیره شود"
+
+# @ wplms-front-end
+#: wplms-front-end.php:83
+msgid "This will create a new question in the site, do you want to continue ?"
+msgstr "یک سوال جدید در سایت ایجاد خواهد شد، آیا میخواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:84
+msgid "Yes, create a new question"
+msgstr "بلی،یک سوال جدید ایجاد شود"
+
+# @ wplms-front-end
+#: wplms-front-end.php:85
+msgid "This will create a new quiz in the site, do you want to continue ?"
+msgstr "یک آزمون جدید در سایت ایجاد خواهد شد، آیا می خواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:86
+msgid "Yes, create a new quiz"
+msgstr "بلی، یک آزمون جدید ایجاد شود"
+
+# @ wplms-front-end
+#: wplms-front-end.php:87
+msgid ""
+"This will overwrite the existing quiz settings, do you want to continue ?"
+msgstr "تنظیمات فعلی آزمون بازنویسی خواهد شد، آیا می خواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:88
+msgid "Yes, save quiz settings"
+msgstr "بلی، تنظیمات آزمون ذخیره شود"
+
+# @ wplms-front-end
+#: wplms-front-end.php:89
+msgid ""
+"This will delete the unit/quiz from your site, do you want to continue ?"
+msgstr "جلسه یا آزمون از سایت حذف خواهد شد، آیا می خواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:90
+msgid "Continue"
+msgstr "ادامه دهید"
+
+# @ wplms-front-end
+#: wplms-front-end.php:91
+msgid "This will overwrite the previous settings, do you want to continue ?"
+msgstr "تنظیمات قبلی بازنویسی خواهد شد، آیا می خواهید ادامه دهید؟"
+
+# @ default
+# @ wplms-front-end
+#: wplms-front-end.php:92 front-end-editor/class-wp-front-end-editor.php:617
+msgid "Save"
+msgstr "ذخیره"
+
+# @ wplms-front-end
+#: wplms-front-end.php:93
+msgid ""
+"This will create a new assignment in the site, do you want to continue ?"
+msgstr "یک تکلیف جدید در سایت ایجاد خواهد شد، آیا می خواهید ادامه دهید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:94
+msgid "Yes, create a new assignment"
+msgstr "بلی، یک تکلیف جدید ایجاد شود"
+
+# @ wplms-front-end
+#: wplms-front-end.php:95
+msgid ""
+"Are you sure you want to take course offline, this will remove the course "
+"from course directory and it will not be visible to your students"
+msgstr ""
+"آیا شما از آفلاین کردن دوره مطمئن هستید؟ این کار باعث می شود دوره از "
+"دایرکتوری دوره ها حذف شده و برای دانشجویانش قابل مشاهده نباشد."
+
+# @ wplms-front-end
+#: wplms-front-end.php:96
+msgid "Are you sure you want to delete this course ?"
+msgstr "آیا شما از حدف این دوره اطمینان دارید؟"
+
+# @ wplms-front-end
+#: wplms-front-end.php:97
+msgid "DELETE COURSE"
+msgstr "حذف دوره"
+
+# @ wplms-front-end
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "لطفا نام کاربری Envato Marketplace  خود را وارد کنید."
+
+# @ wplms-front-end
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "لطفا Envato Marketplace API Key خود را وارد کنید."
+
+# @ wplms-front-end
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "تنظیم API یک پارامتر ضروری است."
+
+# @ wplms-front-end
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr " Envato Marketplace \"item ID\" یک پارامتر ضروری است."
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "هنگام درخواست API یک خطای HTTP غیرمنتظره رخ داده است."
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "دوباره تلاش کنید"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "یک خطای ناشناخته رخ داده است."
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"افزونه با موفقیت به روز رسانی شد، اما به صورت خودکار قابل فعال سازی نیست،‌ "
+"لطفا افزونه را به صورت دستی فعال کنید"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "فعالسازی مجدد افزونه باموفقیت انجام شد."
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "به روز رسانی های افزونه"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری:"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "ایمیل:"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید:"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>به روز رسانی افزونه شما <span style=\"color:green\">فعال است</span></p>"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\">معتبر نیست</span>, بروزرسانی های "
+"اتوماتیک <span style=\"color:red\">فعال نمی باشد</span>.</p>"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به اعتبارسنجی فعالسازی بروزرسانی نمی باشد</p>"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "افزودن کلید"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "ایمیل"
+
+# @ wplms-front-end
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری Themeforest (برای بروزرسانی های خودکار)"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:209
+msgid ""
+"You attempted to edit an item that doesn&#8217;t exist. Perhaps it was "
+"deleted?"
+msgstr ""
+"شما در حال ویرایش آیتمی هستید که وجود ندارد، شاید این آیتم حذف شده است؟"
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:229
+#: front-end-editor/class-wp-front-end-editor.php:359
+#: front-end-editor/class-wp-front-end-editor.php:884
+msgid "You are not allowed to edit this item."
+msgstr "شما اجازه ویرایش این آیتم را ندارید."
+
+# @ default
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:300
+#: front-end-editor/class-wp-front-end-editor.php:465
+#: front-end-editor/class-wp-front-end-editor.php:1350
+#: front-end-editor/class-wp-front-end-editor.php:1391
+#: front-end-editor/class-wp-front-end-editor.php:1549
+msgid "Cancel"
+msgstr "لغو"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:304
+msgid "LOCKED"
+msgstr "قفل شده"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:332
+msgid "Error while saving."
+msgstr "خطا هنگام ذخیره سازی."
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:335
+msgid "g:i:s a"
+msgstr ""
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:337
+#, php-format
+msgid "Draft saved at %s."
+msgstr "پیش‌نویس در زمان  %s ذخیره شد."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:354
+msgid "ERROR: invalid post data."
+msgstr "خطا: داده نوشته نامعتبر است."
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:464
+#: front-end-editor/class-wp-front-end-editor.php:1349
+#: front-end-editor/class-wp-front-end-editor.php:1390
+msgid "OK"
+msgstr "قبول"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:466
+msgid "Publish on:"
+msgstr "انتشار  در:"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:467
+msgid "Schedule for:"
+msgstr "زمان‌بندی برای:"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:468
+msgid "Published on:"
+msgstr "منتشر شده در:"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:469
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s : %5$s"
+msgstr ""
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:470
+msgid "Show more comments"
+msgstr "نمایش دیدگاه های بیشتر"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:471
+msgid "No more comments found."
+msgstr "دیدگاه دیگری پیدا نشد."
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:472
+#: front-end-editor/class-wp-front-end-editor.php:605
+#: front-end-editor/class-wp-front-end-editor.php:1175
+#: includes/class_wplms_front_end.php:1016
+msgid "Publish"
+msgstr "انتشار"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:473
+msgid "Schedule"
+msgstr "زمانبندی"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:474
+#: front-end-editor/class-wp-front-end-editor.php:521
+#: front-end-editor/class-wp-front-end-editor.php:617
+msgid "Update"
+msgstr "به روز رسانی "
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:475
+msgid "Save as Pending"
+msgstr "ذخیره به صورت در انتظار بررسی"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:476
+msgid "Save Draft"
+msgstr "ذخیره پیش نویس"
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:477
+#: front-end-editor/class-wp-front-end-editor.php:1359
+#: front-end-editor/class-wp-front-end-editor.php:1387
+msgid "Private"
+msgstr "خصوصی"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:478
+#: front-end-editor/class-wp-front-end-editor.php:1368
+#: front-end-editor/class-wp-front-end-editor.php:1381
+msgid "Public"
+msgstr "عمومی"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:479
+#: front-end-editor/class-wp-front-end-editor.php:1365
+msgid "Public, Sticky"
+msgstr "عمومی٬ سنجاق‌شده"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:480
+msgid "Password Protected"
+msgstr "محافظت شده با رمز عبور"
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:481
+#: front-end-editor/class-wp-front-end-editor.php:1312
+#: front-end-editor/class-wp-front-end-editor.php:1338
+msgid "Privately Published"
+msgstr "منتشر شده بصورت خصوصی"
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:482
+#: front-end-editor/class-wp-front-end-editor.php:1315
+#: front-end-editor/class-wp-front-end-editor.php:1336
+msgid "Published"
+msgstr "منتشر شده"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:483
+msgctxt "tag delimiter"
+msgid ","
+msgstr ""
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:510
+msgid "Saving Draft&#8230;"
+msgstr "در حال ذخیره پیش‌نویس..."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:511
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "در صورت بستن این صفحه،‌ تغییرات شما از بین خواهند رفت."
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:520
+#: front-end-editor/class-wp-front-end-editor.php:1504
+msgid "Insert/edit link"
+msgstr "درج/ویرایش لینک"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:522
+msgid "Add Link"
+msgstr "افزودن لینک"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:523
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:524
+msgid "No matches found."
+msgstr "جستجو بی نتیجه بود."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:565
+msgid "Could not load the preview image. Please reload the page and try again."
+msgstr ""
+"امکان لود تصویر پیش نمایش وجود ندارد. لطفا برگه را مجددا لود و دوباره تلاش "
+"کنید."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:605
+msgid "Publishing&hellip;"
+msgstr "در حال انتشار&hellip;"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:617
+msgid "Saving&hellip;"
+msgstr "ذخیره سازی&hellip;"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:617
+msgid "Updating&hellip;"
+msgstr "بروزرسانی&hellip;"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:796
+msgid "Add a featured image"
+msgstr "افزودن تصویر شاخص"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1105
+#, php-format
+msgid "Post updated. <a href=\"%s\">View post</a>"
+msgstr "نوشته به‌روز شد. <a href=\"%s\">نمایش نوشته</a>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1106
+#: front-end-editor/class-wp-front-end-editor.php:1122
+msgid "Custom field updated."
+msgstr "زمینه دلخواه بروز شد."
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1107
+#: front-end-editor/class-wp-front-end-editor.php:1123
+msgid "Custom field deleted."
+msgstr "زمینه دلخواه حذف شد."
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1108
+msgid "Post updated."
+msgstr "نوشته بروز شد."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1110
+#, php-format
+msgid "Post restored to revision from %s"
+msgstr "نوشته بازیافت شده از نسخه‌ی رونوشت %s"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1111
+#, php-format
+msgid "Post published. <a href=\"%s\">View post</a>"
+msgstr "نوشته منتشر شد. <a href=\"%s\">مشاهده نوشته</a>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1112
+msgid "Post saved."
+msgstr "نوشته ذخیره شد."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1113
+#, php-format
+msgid "Post submitted. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr "نوشته ارسال شد. <a target=\"_blank\" href=\"%s\">پیش‌نمایش نوشته</a>"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1114
+#, php-format
+msgid ""
+"Post scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview post</a>"
+msgstr ""
+"نوشته زمانبندی شد برای: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">پیش نمایش نوشته</a>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1116
+#: front-end-editor/class-wp-front-end-editor.php:1129
+#: front-end-editor/class-wp-front-end-editor.php:1397
+msgid "M j, Y @ G:i"
+msgstr ""
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1117
+#, php-format
+msgid "Post draft updated. <a target=\"_blank\" href=\"%s\">Preview post</a>"
+msgstr ""
+"پیش نویس نوشته بروز شد. <a target=\"_blank\" href=\"%s\">پیش نمایش نوشته</a>"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1121
+#, php-format
+msgid "Page updated. <a href=\"%s\">View page</a>"
+msgstr "برگه بروز شد. <a href=\"%s\">مشاهده برگه</a>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1124
+msgid "Page updated."
+msgstr "برگه بروز شد."
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1125
+#, php-format
+msgid "Page restored to revision from %s"
+msgstr "برگه بازیافت شده از نگارش رونوشت %s"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1126
+#, php-format
+msgid "Page published. <a href=\"%s\">View page</a>"
+msgstr "برگه منتشر شد. <a href=\"%s\">مشاهده برگه</a>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1127
+msgid "Page saved."
+msgstr "برگه ذخیره شد."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1128
+#, php-format
+msgid "Page submitted. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr "برگه ارسال شد. <a target=\"_blank\" href=\"%s\">پیش نمایش برگه</a>"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1129
+#, php-format
+msgid ""
+"Page scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview page</a>"
+msgstr ""
+"برگه زمانبدی شد برای: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">پیش نمایش برگه</a>"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1130
+#, php-format
+msgid "Page draft updated. <a target=\"_blank\" href=\"%s\">Preview page</a>"
+msgstr ""
+"پیش نویس برگه بروز شد. <a target=\"_blank\" href=\"%s\">پیش نمایش برگه</a>"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1132
+msgid "Media attachment updated."
+msgstr "ضمیمه رسانه ای بروزرسانی شد."
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1163
+#, php-format
+msgid ""
+"There is an autosave of this post that is more recent than the version "
+"below. <a href=\"%s\">View the autosave</a>"
+msgstr ""
+"یک ذخیره خودکار از این نوشته وجود دارد که جدیدتر از نسخه زیر است.<a href=\"%s"
+"\">مشاهده ذخیره خودکار</a>"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1186
+msgid "Revisions"
+msgstr "رونوشت ها"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1195
+msgctxt "post format"
+msgid "Format"
+msgstr "فرمت"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Page Attributes"
+msgstr "صفات برگه"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1224
+msgid "Attributes"
+msgstr "صفات"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1228
+msgid "Excerpt"
+msgstr "چکیده"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1232
+msgid "Send Trackbacks"
+msgstr "ارسال بازتاب ها"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1236
+msgid "Custom Fields"
+msgstr "زمینه های دلخواه"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1240
+msgid "Discussion"
+msgstr "مباحث"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1307
+msgid "Status:"
+msgstr "وضعیت:"
+
+# @ default
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1318
+#: front-end-editor/class-wp-front-end-editor.php:1340
+msgid "Scheduled"
+msgstr "زمانبندی شده"
+
+# @ default
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1321
+#: front-end-editor/class-wp-front-end-editor.php:1342
+msgid "Pending Review"
+msgstr "نقد و بررسی در انتظار تائید"
+
+# @ default
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1325
+#: front-end-editor/class-wp-front-end-editor.php:1344
+#: front-end-editor/class-wp-front-end-editor.php:1346
+msgid "Draft"
+msgstr "پیش نویس"
+
+# @ wplms-front-end
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1331
+#: front-end-editor/class-wp-front-end-editor.php:1373
+#: front-end-editor/class-wp-front-end-editor.php:1420
+msgid "Edit"
+msgstr "ویرایش"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1355
+msgid "Visibility:"
+msgstr "نمایانی :"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1362
+#: front-end-editor/class-wp-front-end-editor.php:1385
+msgid "Password protected"
+msgstr "محافظت شده با رمزعبور"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1383
+msgid "Stick this post to the front page"
+msgstr "سنجاق کردن این نوشته در برگه‌ی نخست"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1386
+msgid "Password:"
+msgstr "رمز عبور:"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1400
+#, php-format
+msgid "Scheduled for: <b>%1$s</b>"
+msgstr "زمانبندی شده برای: <b>%1$s</b>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1402
+#, php-format
+msgid "Published on: <b>%1$s</b>"
+msgstr "منتشر شده در: <b>%1$s</b>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1404
+#: front-end-editor/class-wp-front-end-editor.php:1412
+msgid "Publish <b>immediately</b>"
+msgstr "انتشار  <b>فوری</b>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1406
+#, php-format
+msgid "Schedule for: <b>%1$s</b>"
+msgstr "زمانبندی برای: <b>%1$s</b>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1408
+#, php-format
+msgid "Publish on: <b>%1$s</b>"
+msgstr "انتشار در: <b>%1$s</b>"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1436
+msgid "Slug"
+msgstr "نامک"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1449
+msgid "Author"
+msgstr "نویسنده"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1469
+#: front-end-editor/class-wp-front-end-editor.php:1514
+msgid "Title"
+msgstr "عنوان"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1509
+msgid "Enter the destination URL"
+msgstr "آدرس مقصد را وارد کنید"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1511
+msgid "URL"
+msgstr "URL"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1517
+msgid "Open link in a new window/tab"
+msgstr "نمایش پیوند در پنجره/تب جدید"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1520
+msgid "Or link to existing content"
+msgstr "یا به محتوای موجود لینک شود"
+
+# @ default
+#: front-end-editor/class-wp-front-end-editor.php:1524
+msgid "Search"
+msgstr "جستجو"
+
+# @ wplms-front-end
+#: front-end-editor/class-wp-front-end-editor.php:1536
+msgid "No search term specified. Showing recent items."
+msgstr "معیاری برای جستجو مشخص نشده. در حال نمایش آخرین موارد."
+
+# @ default
+#: front-end-editor/meta-modal-template.php:9
+msgid ""
+"<strong>Connection lost.</strong> Saving has been disabled until you&#8217;"
+"re reconnected."
+msgstr ""
+"<strong>اتصال از بین رفت.</strong> ذخیره سازی تا اتصال مجدد غیر فعال می باشد."
+
+# @ default
+#: front-end-editor/meta-modal-template.php:10
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr "ما از این نوشته در مرورگر شما، در صورت نیاز پشتیبان میگیریم."
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:64
+msgid "Create a Course"
+msgstr "ایجاد دوره جدید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:71
+msgid "COURSE CREATION ONLY ALLOWED FOR INSTRUCTORS & ADMINISTRATORS"
+msgstr "امکان ایجاد دوره تنها برای اساتید و مدیران وجود دارد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:81
+msgid "Unable to edit Course, please contact Site Administrator"
+msgstr "قادر به ویرایش دوره نمی باشد. لطفا با مدیر سایت تماس بگیرید."
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:84
+msgid "Incorrect Action, please contact Site Administrator"
+msgstr "عملکرد نادرست، لطفا با مدیر سایت تماس بگیرید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:112
+msgid "Edit Course"
+msgstr "ویرایش دوره"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:142
+#: includes/class_wplms_front_end.php:214
+#: includes/class_wplms_front_end.php:311
+#: includes/class_wplms_front_end.php:439
+#: includes/class_wplms_front_end.php:497
+#: includes/class_wplms_front_end.php:552
+#: includes/class_wplms_front_end.php:580
+#: includes/class_wplms_front_end.php:616
+#: includes/class_wplms_front_end.php:767
+#: includes/class_wplms_front_end.php:806
+#: includes/class_wplms_front_end.php:831
+#: includes/class_wplms_front_end.php:1097
+#: includes/class_wplms_front_end.php:1411
+#: includes/class_wplms_front_end.php:1465
+#: includes/class_wplms_front_end.php:1536
+#: includes/class_wplms_front_end.php:1665
+#: includes/class_wplms_front_end.php:1691
+#: includes/class_wplms_front_end.php:1884
+msgid "Security check Failed. Contact Administrator."
+msgstr "بررسی امنیتی با شکست مواجه شد. با مدیر سایت تماس بگیرید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:166
+#: includes/class_wplms_front_end.php:251
+msgid "Unable to create a new Course Category. Contact Admin !"
+msgstr "قادر به ایجاد دسته بندی جدید دوره نمیباشد. با مدیر سایت تماس بگیرید !"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:195
+#: includes/class_wplms_front_end.php:279
+msgid "Unable to create course, contact admin !"
+msgstr "قادر به ایجاد دوره نمیباشد، با مدیر تماس بگیرید !"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:220
+#: includes/class_wplms_front_end.php:316
+#: includes/class_wplms_front_end.php:444
+#: includes/class_wplms_front_end.php:502
+#: includes/class_wplms_front_end.php:557
+#: includes/class_wplms_front_end.php:585
+#: includes/class_wplms_front_end.php:621
+#: includes/class_wplms_front_end.php:772
+#: includes/class_wplms_front_end.php:811
+#: includes/class_wplms_front_end.php:836
+#: includes/class_wplms_front_end.php:1102
+msgid "Invalid Course id, please edit a course"
+msgstr "شناسه دوره نامعتبر، لطفا یک دوره را ویرایش کنید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:226
+#: includes/class_wplms_front_end.php:322
+#: includes/class_wplms_front_end.php:450
+#: includes/class_wplms_front_end.php:508
+#: includes/class_wplms_front_end.php:591
+#: includes/class_wplms_front_end.php:627
+#: includes/class_wplms_front_end.php:778
+msgid "Invalid Course Instructor"
+msgstr "استاد دوره نامعتبر"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:334
+msgid "Unable to save course setting : "
+msgstr "قادر به ذخیره تنطیمات دوره نمی باشد:"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:434
+msgid "Can not have a blank Unit "
+msgstr "نمی توان یک جلسه خالی داشت"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:469
+msgid "Edit Unit"
+msgstr "ویرایش جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:470
+msgid "Preview Unit"
+msgstr "پیش نمایش جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:471
+#: includes/class_wplms_front_end.php:526
+#: includes/class_wplms_front_end.php:980
+#: includes/class_wplms_front_end.php:1000
+#: includes/class_wplms_front_end.php:1017
+#: includes/class_wplms_front_end.php:1235
+#: includes/class_wplms_front_end.php:1273
+#: includes/class_wplms_front_end.php:1429
+msgid "Remove"
+msgstr "برداشتن"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:472
+#: includes/class_wplms_front_end.php:527
+#: includes/class_wplms_front_end.php:981
+#: includes/class_wplms_front_end.php:1001
+#: includes/class_wplms_front_end.php:1236
+#: includes/class_wplms_front_end.php:1430
+msgid "Delete"
+msgstr "پاک کردن"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:492
+msgid "Can not have a Blank Quiz"
+msgstr "نمی توان یک آزمون خالی داشت"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:525
+msgid "Edit Quiz"
+msgstr "ویرایش آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:547
+#: includes/class_wplms_front_end.php:1531
+msgid "Can not delete"
+msgstr "نمی توان حذف کرد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:563
+#: includes/class_wplms_front_end.php:1542
+msgid "Instructor can not delete this unit/quiz"
+msgstr "استاد نمی تواند این جلسه/آزمون را حذف کند"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:571
+#: includes/class_wplms_front_end.php:1550
+msgid "Unable to delete"
+msgstr "قادر به حذف نمی باشد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:606
+msgid "Unable to save curriculum, please contact site admin"
+msgstr "قادر به ذخیره برنامه درسی نمی باشد، لطفا با مدیر سایت تماس بگیرید."
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:703
+msgid "Invalid Product specs"
+msgstr "مشخصات محصول نامعتبر است"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:754
+msgid "Unable to create product and pricing for course"
+msgstr "قادر به ایجاد محصول و قیمت گذاری برای دوره نمی باشید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:790
+msgid "Course successfully updated."
+msgstr "دوره با موفقیت بروزرسانی شد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:791
+msgid "View Course"
+msgstr "مشاهده دوره"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:793
+#: includes/class_wplms_front_end.php:820
+#: includes/class_wplms_front_end.php:880
+msgid "Unable to update Course, contact Site admin"
+msgstr "قادر به ویرایش دوره نمی باشد. با مدیر تماس بگیرید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:818
+msgid "Course Offline."
+msgstr "دوره آفلاین."
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:841
+msgid "Course deletion not allowed"
+msgstr "حذف دوره مجاز نمی باشد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:852
+msgid "Unable to delete curriclum"
+msgstr "قادر به حذف برنامه آموزشی نمی باشد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:878
+msgid "Course Deleted."
+msgstr "دوره حذف شد."
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:921
+msgid "Unit Settings"
+msgstr "تنظیمات جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:924
+msgid "Unit Type"
+msgstr "نوع جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:925
+msgid "Select Unit Type"
+msgstr "انتخاب نوع جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:929
+msgid "Video"
+msgstr "ویدئو"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:930
+msgid "Audio"
+msgstr "صوت"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:931
+msgid "Podcast"
+msgstr "پادکست"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:932
+msgid "General"
+msgstr "عمومی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:940
+msgid "Free Unit"
+msgstr "جلسه رایگان"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:941
+msgid "Make Unit Free"
+msgstr "جلسه رایگان شود"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:944
+#: includes/class_wplms_front_end.php:1765
+msgid "NO"
+msgstr "خیر"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:946
+#: includes/class_wplms_front_end.php:1763
+msgid "YES"
+msgstr "بلی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:952
+msgid "Unit Duration"
+msgstr "مدت زمان جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:953
+msgid "Duration of Unit"
+msgstr "مدت زمان جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:960
+msgid "Unit assignments"
+msgstr "تکالیف جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:961
+msgid "Connect Assignments"
+msgstr "اتصال به تکالیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:978
+#: includes/class_wplms_front_end.php:998
+msgid "Edit Assignment"
+msgstr "ویرایش تکلیف"
+
+#: includes/class_wplms_front_end.php:979
+#: includes/class_wplms_front_end.php:999
+msgid "Preview Assignment"
+msgstr "پیش نمایش تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:989
+#: includes/class_wplms_front_end.php:1031
+#: includes/class_wplms_front_end.php:1248
+#: includes/class_wplms_front_end.php:1773
+msgid "None"
+msgstr "هيچ كدام"
+
+#: includes/class_wplms_front_end.php:1010
+msgid "ADD EXISTING ASSIGNMENT"
+msgstr "افزودن تکلیف موجود"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1011
+msgid "ADD NEW ASSIGNMENT"
+msgstr "افزودن تکلیف جدید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1012
+msgid "Add the Assignment title"
+msgstr "افزودن عنوان تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1028
+msgid "Unit Forum"
+msgstr "انجمن جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1029
+msgid "Connect a Forum"
+msgstr "اتصال یک انجمن"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1032
+msgid "Add new child forum in Course forum"
+msgstr "افزودن یک انجمن فرزند جدید به انجمن دوره"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1033
+msgid "Add new forum"
+msgstr "افزودن انجمن جدید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1053
+msgid "SAVE UNIT SETTINGS"
+msgstr "ذخیره تنظیمات جلسه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1107
+msgid "Invalid Unit id, please edit a course"
+msgstr "شناسه جلسه نامعتبر است، لطفا یک دوره را ویرایش کنید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1113
+msgid "Invalid Unit Instructor"
+msgstr "استاد جلسه نامعتبر است"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1189
+msgid "Settings Saved"
+msgstr "تنظیمات ذخیره شد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1191
+msgid "Unable to save settings"
+msgstr "قادر به ذخیره تنظیمات نمی باشد."
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1215
+msgid "Manage Quiz Questions"
+msgstr "مدیریت سوالات آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1218
+msgid "ADD QUESTION"
+msgstr "افزودن سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1229
+#: includes/class_wplms_front_end.php:1424
+msgid "Question "
+msgstr "سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1233
+#: includes/class_wplms_front_end.php:1428
+msgid "Edit Question"
+msgstr "ویرایش سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1234
+msgid "Preview Question"
+msgstr "پیش نمایش سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1239
+#: includes/class_wplms_front_end.php:1433
+msgid "MARKS : "
+msgstr "نمرات: "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1249
+msgid "ADD A NEW QUESTION"
+msgstr "افزودن یک سوال جدید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1265
+msgid "Marks : "
+msgstr "نمرات : "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1267
+msgid "Question Title : "
+msgstr "عنوان سوال : "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1268
+msgid "Enter title for reference"
+msgstr "یک عنوان برای مرجع وارد کنید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1272
+msgid "Publish Question"
+msgstr "انتشار سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1279
+#: includes/class_wplms_front_end.php:1402
+msgid "SAVE QUIZ SETTINGS"
+msgstr "ذخیره تنظیمات آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1302
+msgid "Enter a Quiz sub-title"
+msgstr "یک زیر عنوان برای آزمون وارد کنید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1312
+msgid "Enter a Quiz Completion message"
+msgstr "یک پیغام برای اتمام آزمون وارد کنید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1318
+msgid "Quiz Settings"
+msgstr "تنظیمات آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1322
+msgid "QUIZ SUB-TITLE"
+msgstr "زیرعنوان آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1327
+msgid "CONNECTED COURSE"
+msgstr "دوره متصل شده"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1342
+msgid "QUIZ DURATION"
+msgstr "مدت زمان آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1345
+msgid "QUIZ EVALUATION"
+msgstr "ارزیابی آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1348
+msgid "AUTO"
+msgstr "خودکار"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1350
+msgid "MANUAL"
+msgstr "دستی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1354
+msgid "QUIZ QUESTIONS TYPE"
+msgstr "نوع سوالات آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1357
+msgid "DYNAMIC"
+msgstr "پویا"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1359
+msgid "STATIC"
+msgstr "ایستا"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1363
+msgid "SELECT QUESTION TAGS"
+msgstr "انتخاب برچسب های سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1374
+msgid "NUMER OF QUESTIONS"
+msgstr "تعداد سوالات"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1377
+msgid "MARKS PER QUESTION"
+msgstr "نمره هر سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1380
+msgid "QUIZ RETAKES"
+msgstr "تعداد دفعات اضافه ای که یک دانشجو می تواند دوباره در آزمون شرکت کند"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1381
+msgid " Retakes"
+msgstr "تعداد آزمون های مجدد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1383
+msgid "QUESTIONS ORDER"
+msgstr "ترتیب سوالات"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1386
+msgid "RANDOM"
+msgstr "تصادفی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1388
+msgid "SEQUENTIAL"
+msgstr "ترتیبی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1392
+msgid "QUIZ COMPLETION MESSAGE"
+msgstr "پیغام اتمام آزمون"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1417
+#, php-format
+msgid "Add Content for %s"
+msgstr "افزودن محتوا برای %s"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1470
+msgid "Invalid Quiz"
+msgstr "آزمون نامعتبر"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1508
+msgid "Quiz Settings saved"
+msgstr "تنظیمات آزمون ذخیره شد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1571
+msgid "True or False"
+msgstr "درست/غلط"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1572
+msgid "Multiple Choice"
+msgstr "چند گزینه ای"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1573
+msgid "Multiple Correct"
+msgstr "چند پاسخ صحیح"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1574
+msgid "Sort Answers"
+msgstr "مرتب سازی پاسخ ها"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1575
+msgid "Match Answers"
+msgstr "تطبیق پاسخ ها"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1576
+msgid "Fill in the Blank"
+msgstr "پرکردن جای خالی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1577
+msgid "Dropdown Select"
+msgstr "انتخاب از منوی کشوئی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1578
+msgid "Small Text"
+msgstr "متن کوتاه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1579
+msgid "Large Text"
+msgstr "متن بلند"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1583
+msgid "QUESTION SETTINGS"
+msgstr "تنظیمات سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1585
+msgid "Question Type"
+msgstr "نوع سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1596
+msgid "ADD OPTION"
+msgstr "افزودن گزینه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1606
+msgid "Click to select as Correct answer"
+msgstr "برای انتخاب پاسخ صحیح کلیک کنید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1615
+msgid "Correct Answer"
+msgstr "پاسخ صحیح"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1616
+msgid "Answer Hint"
+msgstr "سرنخ پاسخ"
+
+#: includes/class_wplms_front_end.php:1617
+msgid "Answer Explanation"
+msgstr "توضیحات پاسخ"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1625
+msgid "SAVE QUESTION SETTINGS"
+msgstr "ذخیره تنظیمات سوال"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1660
+msgid "Unable to save, incorrect question"
+msgstr "قادر به ذخیره نمی باشد، سوال نادرست"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1684
+msgid "Question settings successfully saved"
+msgstr "تنظیمات سوال با موفقیت ذخیره شد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1698
+msgid "Unable to save, incorrect unit"
+msgstr "قادر به ذخیره نمی باشد، جلسه نادرست"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1742
+msgid "ASSIGNMENT SETTINGS"
+msgstr "تنظیمات تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1746
+msgid "ASSIGNMENT SUB-TITLE"
+msgstr "زیر عنوان تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1752
+msgid "ASSIGNMENT MARKS"
+msgstr "نمره تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1753
+msgid "Assignment Maximum Marks"
+msgstr "حداکثر نمره تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1753
+msgid "MARKS"
+msgstr "نمره"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1756
+msgid "ASSIGNMENT DURATION"
+msgstr "مدت زمان تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1757
+msgid "Enter Assignment Duration"
+msgstr "مدت زمان تکلیف را وارد کنید"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1759
+msgid "ASSIGNMENT EVALUATION"
+msgstr "ارزیابی تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1760
+msgid "Include in Course Evaluation"
+msgstr "در ارزیابی دوره لحاظ شود"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1770
+msgid "ASSIGNMENT COURSE"
+msgstr "دوره تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1771
+msgid "Select Assignment Course"
+msgstr "انتخاب دوره تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1788
+msgid "ASSIGNMENT SUBMISISON TYPE"
+msgstr "نوع ارسال تکلیف"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1790
+msgid "UPLOAD"
+msgstr "آپلود"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1791
+msgid "TEXTAREA"
+msgstr "ناحیه متنی"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1794
+msgid "ATTACHMENT TYPE"
+msgstr "نوع ضمیمه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1839
+msgid "Attachment Size"
+msgstr "سایز ضمیمه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1840
+msgid "Maximum attachment size"
+msgstr "حداکثر سایز ضمیمه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1840
+msgid " MBs"
+msgstr ""
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1843
+msgid "SAVE SETTINGS"
+msgstr "ذخیره تنظیمات"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1889
+msgid "Invalid details"
+msgstr "جزئیات نامعتبر "
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1895
+msgid "Invalid Assignment author"
+msgstr "نویسنده تکلیف نامعتبر"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1904
+msgid "SETTINGS SAVED"
+msgstr "تنظیمات ذخیره شد"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1916
+msgid "ADD PACKAGE"
+msgstr "افزودن بسته"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1920
+msgid "Seconds"
+msgstr "ثانیه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1921
+msgid "Minutes"
+msgstr "دقیقه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1922
+msgid "Hours"
+msgstr "ساعت"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1923
+msgid "Days"
+msgstr "روز"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1924
+msgid "Weeks"
+msgstr "هفته"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1925
+msgid "Months"
+msgstr "ماه"
+
+# @ wplms-front-end
+#: includes/class_wplms_front_end.php:1926
+msgid "Years"
+msgstr "سال"

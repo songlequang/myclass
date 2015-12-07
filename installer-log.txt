@@ -1,0 +1,192 @@
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP1 START @ 11:13:33
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+VERSION:	0.5.28
+PHP:		5.6.3 | SAPI: apache2handler
+SERVER:		Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.6.3
+DOC ROOT:	C:/xampp/htdocs/itclass_29_9
+DOC ROOT 755:	true
+LOG FILE 644:	true
+BUILD NAME:	20150929_hoclaptrinhtructuyen_560a3d309a8ac1190150929072640
+REQUEST URL:	http://localhost/itclass_29_9/installer.php
+
+********************************************************************************
+ARCHIVE SETUP
+********************************************************************************
+NAME:	20150929_hoclaptrinhtructuyen_560a3d309a8ac1190150929072640_archive.zip
+SIZE:	156.63MB
+ZIP:	Enabled (ZipArchive Support)
+EXTRACTING
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 14041
+    [filename] => C:\xampp\htdocs\itclass_29_9\20150929_hoclaptrinhtructuyen_560a3d309a8ac1190150929072640_archive.zip
+    [comment] => 
+)
+COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to .orig
+- Reset of .htaccess/web.config files
+
+UPDATED FILES:
+- SQL FILE:  'C:/xampp/htdocs/itclass_29_9/installer-data.sql'
+- WP-CONFIG: 'C:/xampp/htdocs/itclass_29_9/wp-config.php'
+
+ARCHIVE RUNTIME: 280.0252 sec.
+
+
+********************************************************************************
+DATABASE-ROUTINES
+********************************************************************************
+--------------------------------------
+SERVER ENVIROMENT
+--------------------------------------
+MYSQL VERSION:	5.6.21
+TIMEOUT:	5000
+MAXPACK:	1048576
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+**ERROR** database error write 'Row size too large (> 8126). Changing some columns to TEXT or BLOB or using ROW_FORMAT=DYNAMIC or ROW_FORMAT=COMPRESSED may help. In current row format, BLOB prefix of 768 bytes is stored inline.' - [sql=INSERT INTO `itclass_songle_options` VALUES("41257", "_transient_kposts_uni...]
+**ERROR** database error write 'Row size too large (> 8126). Changing some columns to TEXT or BLOB or using ROW_FORMAT=DYNAMIC or ROW_FORMAT=COMPRESSED may help. In current row format, BLOB prefix of 768 bytes is stored inline.' - [sql=INSERT INTO `itclass_songle_options` VALUES("43485", "_transient_kposts_uni...]
+ERRORS FOUND:	2
+DROP TABLE:	
+QUERIES RAN:	47115
+
+itclass_songle_bp_activity: (3012)
+itclass_songle_bp_activity_meta: (2166)
+itclass_songle_bp_friends: (0)
+itclass_songle_bp_messages_messages: (143)
+itclass_songle_bp_messages_meta: (0)
+itclass_songle_bp_messages_notices: (0)
+itclass_songle_bp_messages_recipients: (144)
+itclass_songle_bp_notifications: (145)
+itclass_songle_bp_notifications_meta: (0)
+itclass_songle_bp_xprofile_data: (787)
+itclass_songle_bp_xprofile_fields: (7)
+itclass_songle_bp_xprofile_groups: (2)
+itclass_songle_bp_xprofile_meta: (10)
+itclass_songle_commentmeta: (546)
+itclass_songle_comments: (646)
+itclass_songle_duplicator_packages: (2)
+itclass_songle_layerslider: (6)
+itclass_songle_links: (0)
+itclass_songle_masterslider_options: (5)
+itclass_songle_masterslider_sliders: (1)
+itclass_songle_mycred_log: (73)
+itclass_songle_options: (14679)
+itclass_songle_paycard: (56)
+itclass_songle_paycard_log: (36)
+itclass_songle_postmeta: (10984)
+itclass_songle_posts: (1461)
+itclass_songle_signups: (188)
+itclass_songle_social_users: (314)
+itclass_songle_term_relationships: (345)
+itclass_songle_term_taxonomy: (127)
+itclass_songle_terms: (127)
+itclass_songle_usermeta: (9969)
+itclass_songle_users: (743)
+itclass_songle_woocommerce_attribute_taxonomies: (0)
+itclass_songle_woocommerce_downloadable_product_permissions: (0)
+itclass_songle_woocommerce_order_itemmeta: (0)
+itclass_songle_woocommerce_order_items: (0)
+itclass_songle_woocommerce_tax_rate_locations: (0)
+itclass_songle_woocommerce_tax_rates: (0)
+itclass_songle_woocommerce_termmeta: (45)
+itclass_songle_wpmm_subscribers: (303)
+Removed '3401' cache/transient rows
+
+SECTION RUNTIME: 67.7523 sec.
+
+********************************************************************************
+STEP1 COMPLETE @ 11:19:21 - TOTAL RUNTIME: 347.9523 sec.
+********************************************************************************
+
+
+
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP2 START @ 11:21:06
+NOTICE: Do not post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	 utf8 
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+itclass_songle_bp_activity~ (3012)
+itclass_songle_bp_activity_meta~ (2166)
+itclass_songle_bp_friends^ (0)
+itclass_songle_bp_messages_messages~ (143)
+itclass_songle_bp_messages_meta^ (0)
+itclass_songle_bp_messages_notices^ (0)
+itclass_songle_bp_messages_recipients~ (144)
+itclass_songle_bp_notifications~ (145)
+itclass_songle_bp_notifications_meta^ (0)
+itclass_songle_bp_xprofile_data~ (787)
+itclass_songle_bp_xprofile_fields~ (7)
+itclass_songle_bp_xprofile_groups~ (2)
+itclass_songle_bp_xprofile_meta~ (10)
+itclass_songle_commentmeta~ (546)
+itclass_songle_comments~ (646)
+itclass_songle_duplicator_packages^ (0)
+itclass_songle_layerslider~ (6)
+itclass_songle_links^ (0)
+itclass_songle_masterslider_options~ (5)
+itclass_songle_masterslider_sliders~ (1)
+itclass_songle_mycred_log~ (73)
+itclass_songle_options~ (11278)
+itclass_songle_paycard~ (56)
+itclass_songle_paycard_log~ (36)
+itclass_songle_postmeta~ (10984)
+itclass_songle_posts~ (1461)
+itclass_songle_signups~ (188)
+itclass_songle_social_users~ (314)
+itclass_songle_term_relationships~ (345)
+itclass_songle_term_taxonomy~ (127)
+itclass_songle_terms~ (127)
+itclass_songle_usermeta~ (9969)
+itclass_songle_users~ (743)
+itclass_songle_woocommerce_attribute_taxonomies^ (0)
+itclass_songle_woocommerce_downloadable_product_permissions^ (0)
+itclass_songle_woocommerce_order_itemmeta^ (0)
+itclass_songle_woocommerce_order_items^ (0)
+itclass_songle_woocommerce_tax_rate_locations^ (0)
+itclass_songle_woocommerce_tax_rates^ (0)
+itclass_songle_woocommerce_termmeta~ (45)
+itclass_songle_wpmm_subscribers~ (303)
+--------------------------------------
+SEARCH1:	'http://it.myclass.vn' 
+REPLACE1:	'http://localhost:8080/itclass_29_9' 
+SEARCH2:	'/var/www/it.myclass.vn/html/' 
+REPLACE2:	'C:/xampp/htdocs/itclass_29_9/' 
+SCANNED:	Tables:41 | Rows:43669 | Cells:247072 
+UPDATED:	Tables:4 | Rows:7493 |Cells:9693 
+ERRORS:		0 
+RUNTIME:	23.622600 sec
+
+********************************************************************************
+START FINAL CLEANUP: 11:21:30
+********************************************************************************
+NEW WP-ADMIN USER: Username 'admin' already exists in the database.  Unable to create new account 
+
+UPDATE `itclass_songle_blogs` SET domain = 'localhost' WHERE domain = 'it.myclass.vn'
+
+--------------------------------------
+WARNINGS
+--------------------------------------
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+created basic .htaccess file.  If using IIS web.config this process will need to be done manually.
+********************************************************************************
+STEP 2 COMPLETE @ 11:21:31 - TOTAL RUNTIME: 24.1734 sec.
+********************************************************************************

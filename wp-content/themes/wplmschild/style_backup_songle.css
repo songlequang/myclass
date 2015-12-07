@@ -1,0 +1,1327 @@
+/*
+Theme Name: WPLMS ChildTheme I
+Theme URI: http://www.VibeThemes.com    
+Description: Child Theme for WPLMS WordPress Theme
+Author: VibeThemes
+Author URI: http://themeforest.com/user/vibethemes
+Template: wplms
+Version: 1.0
+*/
+
+@import url("../wplms/style.css");
+
+header{
+	position: fixed;
+	background: rgba(0,0,0,0.6) !important;
+	webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;
+}
+
+header + #content + .stripe{
+	margin-top:-90px;
+}
+header + section,
+#grouptitle, #memberstitle, #activitytitle{
+	padding-top:120px;
+}
+header + section#content,
+header + section#title{
+	padding-top:90px;
+}
+#title{margin-top:0;}
+.topmenu{
+	float:right;
+}
+
+
+.topmenu li{
+	padding:30px 12px;
+	float:left;
+}
+
+.vbplogin:before{
+	content: '|';
+	font-family: 'Fonticon';
+	font-size: 16px;
+	margin-right: 5px;
+	float:left;
+}
+.vbpcart:before{
+	content: 'x';
+	float:left;
+	font-family: 'Fonticon';
+	font-size: 16px;
+	margin-right: 5px;
+}
+.vibe-bp-login a{color:#FFF;text-transform: uppercase;}
+.vbpcart em{
+	background: #78c8c9;
+	padding: 2px 5px;
+	border-radius: 50%;
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 11px;
+	font-weight: 800;
+}
+.logged-in .vbplogin:before{content:'';}
+.topmenu li a{
+	color:#FFF;font-size:13px;
+	font-weight:800;
+	font-family:'Raleway',sans-serif;
+}
+#vibe_bp_login{top:80px;z-index: 999 !important;}
+
+/*#logo{float:left;margin-top:15px;} songle*/
+#logo{float:left;margin-top:3px;}
+header #searchicon{padding: 28px 0 24px;}
+header.fixed #searchicon{padding: 8px 0 4px;}
+
+header #searchform{padding:0;}
+header #searchform input[type="text"]{
+	font-size: 35px;
+	background:rgba(0,0,0,0.6) !important;
+	color:#FFF !important;
+	border-radius:0;
+	padding: 16px;}	
+header #searchdiv {
+	float: none;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	border: none;
+	color:#FFF;
+}
+#trigger{top:30px;}
+/*songle modify below*/
+#logo img {
+max-height:75px !important;
+}
+nav .menu li a ,.topmenu li a{
+color: black;
+}
+header {
+  border-top: solid 5px rgb(253, 186, 18);
+  background: white !important;
+}
+/*end songle*/
+header.fixed #logo{margin-top:5px;}
+header.fixed #logo img{max-height:24px;webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;}
+header.fixed nav .menu > li > a,
+header.fixed .topmenu li{padding-top:15px;padding-bottom:15px;
+	webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;}
+header.fixed #searchform input[type="text"]{font-size:20px;padding:12px;}
+header.fixed #trigger{top:10px;}
+@media (max-width: 991px) and (min-width: 768px){
+	#trigger {right: 0;}
+	header #searchicon {margin-right: 30px;}
+}
+@media (max-width: 1140px) and (min-width: 991px){
+	.vbplogin span{display: none;}
+}
+@media (max-width: 768px){
+.topmenu{margin-right:60px;}
+.woocommerce table.shop_table td, .woocommerce-page table.shop_table td{padding:10px 0;}
+.woocommerce table.cart th, .woocommerce table.cart td, .woocommerce #content table.cart th, .woocommerce #content table.cart td, .woocommerce-page table.cart th, .woocommerce-page table.cart td, .woocommerce-page #content table.cart th, .woocommerce-page #content table.cart td{font-size:11px;}
+.page .content, .single .content, .padder.content{padding:8px;}
+}
+@media (max-width: 460px){
+	.vbplogin span{display: none;}
+}
+
+
+
+/* Chỉnh sửa css tạo đề cương*/
+#add_course_section{
+    width:100%;
+}
+
+#add_question,
+#add_course_unit,
+#add_course_quiz{
+    width: 40%;
+    float:right;
+    background: none repeat scroll 0% 0% #4985B8 !important;
+    border-color: #4985B8 !important;
+}
+
+.button.primary{
+    background-color: #777 !important;
+    border-color: #777 !important;
+}
+
+#add_course_section,
+#add_question,
+#add_course_unit,
+#add_course_quiz,
+#add_option,
+#upload_zip_button{
+    margin: 5px 10px 0px 0px !important;
+}
+
+.smallimg.vbpcart{
+    display: none;
+}
+
+/*chỉnh sửa thanh admin bar*/
+#wp-admin-bar-wp-fee-mce-toolbar{
+    top:232px;
+    background-color: #FFFFFF !important;
+
+}
+
+#wpadminbar {
+    position: absolute !important;
+}
+
+#wpadminbar ul#wp-admin-bar-root-default > li {
+    left: 102px;
+}
+
+.curriculum li.new_section{
+    background-color: #222;
+    color: #FFFFFF;
+}
+
+.set_backgroud_unit{
+    position: relative;
+    background-color: #eee;
+    padding: 5px;
+    z-index: 9;
+}
+
+.new_unit_actions{
+    display: block;
+    float: left !important;
+}
+
+.btn-group.unit_actions{
+    display: none !important;
+}
+
+.new_quiz_actions{
+    display: block;
+    float: left !important;
+}
+
+.btn-group.quiz_actions{
+    display: none;
+}
+
+/*.btn.btn-success{*/
+/*float: right;*/
+/*}*/
+/*Start: khải thêm vào css mục tiêu khóa học trang edit-course
+ */
+
+#create_course,#create_course_help,#goal-course,#goal_course_help{
+    display:none;
+    opacity: 0;
+
+}
+#create_course.active{
+
+
+}
+
+.active
+{
+    display:block !important;
+    opacity: 1 !important;
+}
+
+#course_live_help{
+    display: none;
+    opacity: 0;
+}
+/*css textbox*/
+
+.form-control:-moz-placeholder {
+    color: #999999;
+}
+
+.form-control::-moz-placeholder {
+    color: #999999;
+}
+
+.form-control:-ms-input-placeholder {
+    color: #999999;
+}
+
+.form-control::-webkit-input-placeholder {
+    color: #999999;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    color: #555555;
+    vertical-align: middle;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+/*button*/
+.btn1 {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+.btn-success1 {
+    color: #fff;
+    background-color: #5cb85c;
+
+    border: none;
+}
+.btn-success1:hover{
+    color: #fff;
+    background-color: #9a9a9a;
+    border: none;
+    border-color: #4cae4c;
+
+}
+.form-control:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+}
+/*Đề mục nhỏ*/
+.minititle
+{
+    font-size: 13pt;
+    content: #999999;
+}
+.titlesnotes
+{
+    font-style: italic;
+    font-size: 13pt;
+
+}
+.noted
+{
+    font-style: italic;
+    font-size: 10pt;
+
+}
+/*Ẩn hiện button save goal*/
+.appearbtn
+{
+    display: block !important;
+
+}
+.disappearbtn
+{
+    display: none !important;
+;
+
+}
+header {    -webkit-transform: translateZ(0); }
+
+h1#course-title{
+    font-size: 13pt;
+    font-weight: bold;
+    height: 100%;
+
+}
+#div-title-course
+{
+    width: auto;
+    height: 75px;
+    border: 1px solid #999999;
+    padding: 10px;
+    word-wrap: break-word;
+}
+#lengthchar{
+    position: relative;
+    bottom: 43px;
+    left: 8px;
+    float: right;
+    clear: both;
+    padding: 5px;
+    background-color: #999999;
+    color: #ffffff;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    width: auto;
+
+}
+.delete
+{
+    float: right;
+    position: relative;
+    bottom: 45px;
+    right: 10px;
+    z-index: 9999;
+}
+.mt1,.mt2,.mt3{
+    width: 80%;
+    float: left;
+
+}
+#btnMucTieu1,#btnMucTieu2,#btnMucTieu3{
+    float: right;
+    clear: both;
+    position: relative;
+    bottom: 39px;
+    left: 10px;
+    z-index: 99;
+}
+/*end khải*/
+
+/*Xử lý giao diện tạo nội dung Unit*/
+
+.box_shadow_unit{
+    position: relative;
+    border: 1px solid #eee;
+    margin-top: -10px;
+    z-index: 1;
+    width: 480px;
+    height:50px;
+    box-shadow: 1px 1px 1px #ccc;
+}
+
+.box_shadow_content_unit{
+    position: relative;
+    border: 1px solid #eee;
+    z-index: 2;
+    width: 97%;
+    height:550px;
+    box-shadow: 1px 1px 1px #ccc;
+    margin-top: -50px;
+
+}
+
+.add_content_unit{
+    width: 100%;
+    height: 100%;
+    padding-top: 48px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.add_content_unit a{
+    display: inline-block;
+    width: 70px;
+    height: 60px;
+    background: #ececec;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.45);
+    position: relative;
+    border: 1px solid #d1d1d1;
+    overflow: hidden;
+    margin: 0px 26px 0;
+
+
+}
+
+.add_content_unit a:before{
+
+    color: #CDCDCD;
+    font-size: 28px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+    height: 100%;
+    line-height: 1.4;
+    padding: 3px 20px;
+}
+
+.add_content_unit a:hover:before{
+    background: #009900;
+    color: #FFFFFF;
+
+}
+
+.lecture_icon{
+
+}
+
+.box_shadow_content_unit{
+    display: none;
+}
+
+.add_content_unit  a{
+    cursor: pointer;
+}
+
+.add_content_unit  a.icon-video-1:hover:before{
+    background-color: #74bcaa;
+    border-color: #307866;
+    animation:  all .15s ease 0;;
+}
+
+.add_content_unit  a.icon-file:hover:before {
+    background-color: #b9b390;
+    border-color: #756f4c;
+}
+
+.add_content_unit  a.icon-book:hover:before{
+    background-color: #b95e68;
+    border-color: #751a24;
+}
+
+.add_content_unit  a.icon-television-tv:hover:before{
+    background-color: #7597d3;
+    border-color: #31538f;
+}
+
+.add_content_unit  a.icon-music-24:hover:before{
+    background-color: #fc0;
+    border-color: #b80;
+}
+
+.add_content_unit  a.icon-movie-play-1:hover:before{
+    background-color: #92b738;
+    border-color: #4e7300;
+}
+
+.add_content_unit  a span{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    font-size: 10px;
+    color: #fff;
+    background: rgba(0,0,0,.3);
+    z-index: 1;
+    line-height: 1.8;
+    text-align: center;
+}
+
+.header_content_unit{
+    display: none;
+    background: #fafafa;
+    padding: 12px 63px 13px 42px;
+    position: absolute;
+    border: 1px solid #E6E6E6;
+    border-bottom: none;
+    margin: -5px 5px 0px -30px;
+    float: right;
+    color: #353535;
+    font-weight: 900;
+    box-shadow: 2px 0 1px -1px #ccc,inset 0 1px 0 rgba(255,255,255,.3);
+}
+
+/**/
+.new_unit .icon-close-off-2{
+    position: absolute;
+    margin: -22px 107px;
+    color: lightskyblue;
+    font-size: 14pt;
+}
+
+.old_unit .icon-close-off-2{
+    position: absolute;
+    margin: -22px 107px;
+    color: lightskyblue;
+    font-size: 14pt;
+}
+
+.icon-close-off-2{
+    position: absolute;
+    margin: -18px 50px;
+    color: lightskyblue;
+    font-size:14pt;
+
+
+}
+
+.menu_delete{
+    position: absolute;
+    margin: 8px -24px;
+    color: #fa7252;
+
+}
+/*kết thúc*/
+
+/*Chỉnh tab unit*/
+.nav.nav-tabs{
+    display: inline-flex;
+    border: 1px solid #EFEFEF;
+    margin-left: 0px;
+}
+
+.upload_video{
+    display: none;
+    width: 100%;
+    height:100%;
+    margin-top: 21px;
+    left: 5px;
+}
+
+.content_tab_upload_video{
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+}
+
+.content_tab{
+    width: 75%;
+    line-height: 1.5;
+    color: #222222;
+    padding: 12px;
+    background-color: #ccc;
+    font-size: 11px;
+    flex: 1;
+    -webkit-flex: 1;
+}
+
+.btn_upload{
+    font-size: 11px;
+    margin: 5px;
+}
+
+.tab-content{
+    border-top: 1px solid #EFEFEF;
+}
+
+/* định dạng editor*/
+.mce-container{
+    height: 105% !important;
+}
+
+/*.mce-container-body{*/
+/*height: 100% !important;*/
+/*}*/
+
+.mce-edit-area{
+    height: 372px !important
+}
+
+.mce-edit-area > iframe{
+    height: 100% !important;
+}
+
+.content_editor{
+    height: 85%
+}
+/*kết thúc định dạng editor*/
+
+/*định dạng lại khung nội dung của thêm Unit*/
+.page .content, .single .content, .padder.content {
+    padding: 23px 18px !important;
+}
+
+.course-create-help{
+    width: 170px !important;
+    float: right;
+}
+
+.create_course_content{
+    width: 655px !important;
+}
+
+.content_editor > div{
+    width: 100% !important;
+}
+
+/* định dạng lại giao diện của My Course*/
+/*#buddypress ul.item-list{*/
+/*display: flex !important;*/
+/*}*/
+
+/*#buddypress ul.item-list li{*/
+/*width: 35% !important;*/
+/*}*/
+
+/*#buddypress ul.item-list li img{*/
+/*width: 230px !important;*/
+/*height: 150px !important;*/
+/*}*/
+
+#coursestitle{
+    padding-top: 85px !important;
+}
+
+#buddypress #course-list.item-list.grid li{
+    width: 230px !important;
+    margin: 10px !important;
+}
+
+#buddypress ul.item-list.grid{
+    display: flex;
+}
+
+#buddypress .content_mycourse.col-md-9{
+    width: 100% !important;
+}
+/*Start:khải css*/
+/*css Câu hỏi*/
+.add_content_quiz
+{
+    margin-top: 30px;
+    padding:50px 50px 0 50px;
+}
+.add_content_quiz a
+{
+    width: 80px !important;
+    margin: 0px 20px 0 !important;
+
+}
+.add_content_quiz a:before {
+
+    padding: 3px 25px !important;
+}
+.lecture_icon_quiz
+{
+
+    margin: -22px 120px !important;
+}
+.header_content_quiz
+{
+    padding: 7px 42px 17px 20px;!important;
+
+}
+.box_shadow_content_quiz
+{
+    width: 100% !important;
+    height: 100% !important;
+    margin-left:-10px;
+}
+
+.NoiDung
+{
+    position: relative;
+    top:45px;
+    margin-bottom: 50px;
+
+}
+.titleAnswer
+{
+    font-weight: bold;
+    font-size: 15pt;
+
+}
+.CauTraLoi
+{
+    margin-left: 10px;
+}
+.traloi , .traloi1{
+    margin-left: 10px;
+
+}
+.giaithich{
+    margin:10px 0 10px 25px;
+}
+.NoiDung .txt
+{
+    width: 400px;
+
+}
+.NoiDung .txttl
+{
+    width: 525px;
+
+}
+.rdb{
+    position: relative;
+    right: 100px;
+    top: 40px;
+
+}
+.XoaTraLoi
+{
+    position: relative;
+    left: 435px;
+    bottom: 80px;
+    cursor: pointer;;
+
+}
+/*Phần title trắc nghiệm*/
+.titleTN
+{
+    width: 98% !important;
+    margin-left: 0;
+    margin-left: 1%;
+    margin-right: 1%;
+    position: absolute;
+}
+.editor
+{
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    margin-left: 0;
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 98% !important;
+}
+.question-title
+{
+    padding-left: 20px;
+    font-family: tahoma, arial;
+
+}
+.li-content
+{
+    padding: 0 !important;
+    border: none !important;
+
+}
+.question-type
+{
+    color: #999999;
+    float: left;
+    margin-left: 5px;
+
+}
+.question-edit
+{
+    float:right;
+    width: 80px;
+}
+.Sua
+{
+    cursor: pointer;
+}
+.Xoa
+{
+    cursor: pointer;
+    margin-left: 10px;
+}
+.titleQuestions
+{
+    margin-top: 30px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 15pt;
+    margin-bottom: -30px;
+}
+/*css true false*/
+.rdbTrueFalse
+{
+    position: relative;
+    right: 80px;
+}
+.span-true-false
+{
+    position: relative;
+    right: 170px;
+    bottom: 2px;
+}
+/*css*/
+.ckbmultilple
+{
+    position: relative;
+    top: 40px;
+    right: 100px;
+    height: 15px;
+
+}
+.ckbtraloi
+{
+    margin-left: 10px;
+
+}
+.ckbXoaTraLoi
+{
+    position: relative;
+    left: 550px;
+    bottom: 26px;
+    cursor: pointer;
+}
+.txtThuTu
+{
+    width: 50px !important;
+    float: left;
+    margin-top: 10px;
+}
+.txtmatch-anwser
+{
+    float: left;
+    width: 480px !important;
+    margin-left: 10px;
+}
+.XoaMatchAnwser
+{
+    position: relative;
+    left: 10px;
+    top:20px;
+    cursor: pointer;
+    float:left;
+}
+#facebook
+{
+    display: none !important;
+
+}
+/*kết thúc*/
+/*
+End: khải*/
+
+/*Start: BÌnh*/
+.title_mycourse{
+    float:left;
+    padding-left: 35px;
+    color: #ffffff
+}
+
+.title_mycourse h1{
+    color: #FFFFFF;
+}
+
+.title_tab{
+    float: right;
+    padding: 10px
+}
+
+/* chỉnh sửa css form login*/
+
+.child_vibe_bp_login {
+    width: 680px !important;
+    left: 334px !important;
+    top: 20px !important;
+    background: #EDEFF1 !important;
+    border-radius: 10px !important;
+    margin-top: 75px;
+    z-index: 9999;
+}
+
+.child_vibe_bp_login:after{
+    display: none;
+}
+
+.child-box-heading{
+    text-align: center;
+    margin: 0px 20px;
+    color: #313b3d;
+    font-size: 24px;
+    border-bottom: 1px solid #d3d3d3;
+    padding: 10px;
+}
+
+.child-loginbox-v4{
+    padding: 20px 20px 10px;
+}
+
+.child-vbp-login-form{
+    display: -webkit-box;
+
+}
+
+.child-box-left{
+    padding: 20px 20px 10px;
+}
+
+.social_connect_ui p label{
+    font-size: 12pt;
+}
+
+.box-separator{
+    background: #d3d3d3;
+    margin-top: -20px;
+    width: 1px;
+}
+
+.box-right{
+    width:53%;
+    padding: 0px 20px 20px 10px;
+}
+
+.social-btn{
+    background: #2b85c3 !important;
+    border-radius: 5px;
+}
+
+.social-btn .social-icon{
+    padding: 12px 0 11px 5px;
+    display: inline-block;
+    font-size: 20px;
+    border-right: 1px solid rgba(0,0,0,.2);
+    margin-right: 10px;
+    width: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.child-loginbox-v4 .social-btn .social-icon {
+    padding: 15px 0 15px 5px;
+    display: inline-block;
+    font-size: 20px;
+    border-right: 1px solid rgba(0, 0, 0, .2);
+    margin-right: 10px;
+    width: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.btn-text{
+    font-size: 13pt;
+    font-weight: 700;
+    text-transform: none;
+    padding: 0px 5px 0px 0px;
+}
+
+.vibe-bp-login .btn-text{
+    padding: 20px 5px 10px 0px;
+}
+
+.tiwtter-button{
+    background: #55ACEE !important;
+}
+
+.google-plus-button{
+    background: #DD4B39 !important;
+}
+
+.google-button{
+    background: #DD4B39 !important;
+}
+
+
+#vibe_bp_login label{
+    font-size: 12pt !important;
+    font-weight: normal !important;
+}
+
+.btn-close{
+    float: right;
+    margin: 10px;
+    color: red;
+    cursor: pointer;
+}
+
+.shadow-login{
+    display: none;
+    position: absolute;
+    width: 110%;
+    height: 720px;
+    background: #000000;
+    z-index: 1;
+    top: 0px;
+    opacity: 0.8;
+}
+
+.hidden-scrollbar{
+    overflow: hidden;
+}
+
+/*css cho menu dọc bên gốc trái*/
+header{
+    position: absolute !important;
+}
+
+#noidung_menu{
+    left:20px;
+    width:200px;
+    height:100%;
+    background-color: #C2C8CF;
+    position: absolute
+}
+
+#noidung_menu:before{
+
+}
+
+.menudoc ul li a{
+    display: block;
+    overflow: auto;
+    color: #fff;
+    padding: 5px;
+    /*border-bottom: 1px solid #000000;*/
+}
+
+.menudoc ul li a:link, .menudoc ul li a:visited,
+.menudoc ul li a:active{
+    background: rgba(60,60,55,1);
+    box-shadow: -1px -1px rgba(0,0,0,.15);
+}
+
+.menudoc ul li a:hover{
+    background: #de2e00;
+}
+
+.menudoc ul li ul{
+    position: absolute;
+    width: 250px;
+    visibility: hidden;
+}
+
+.danhsachmenu{
+    margin-top: 31px;
+    margin-left: -84px;
+    margin-right: 20px;
+    cursor: pointer ;
+}
+
+#noidung_menu{
+    display: none;
+    margin-top: 0px;
+}
+
+#noidung_menu:after{
+    content: '';
+    width: 8px;
+    height: 8px;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    position: absolute;
+    background: rgba(60,60,55,0.6) !important;
+    top: 0;
+    left: 10px;
+    box-shadow: -1px -1px rgba(255,255,255,0.5);
+    z-index: -1;
+    margin-top: -4px;
+}
+
+.brow-menu{
+    color: #fff;
+    text-shadow: 0 -1px #3c883b;
+    padding: 15px;
+    border-radius: 4px;
+    height: 36px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.5;
+    background: #5d5d5e;
+}
+
+.brow-menu i{
+    padding: 10px;
+}
+
+/*ẩn menu chính*/
+/*.menu-main-menu-container{*/
+    /*display: none;*/
+/*}*/
+
+/*chỉnh sửa khung search*/
+header #searchform{
+    display: inline-flex !important;
+    width: 20% !important;
+    left: 0;
+    border-radius: 5px !important;
+    box-shadow: 0 1px 1px rgba(0,0,0,0) !important;
+    background-color: transparent !important;
+}
+
+header #searchform:after{
+    display: none;
+}
+
+header #searchdiv{
+    top: 25%;
+    left: 18%;
+}
+
+header #searchform input[type="text"]{
+    font-size: 15px !important;
+    border-radius: 5px !important;
+    padding: 10px !important;
+    width: 300px;
+}
+
+#search{
+    margin-left: 22vw;
+    font-size: 2.4vw;
+}
+
+/*Khung search ngay slider*/
+.searchslider{
+    /*display: none;*/
+    position: absolute;
+    width: 60%;
+    /*height: 480%;*/
+    margin-top: 10%;
+    margin-left: 22%;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,0.6);
+    z-index: 9;
+}
+
+.search_slider{
+    position: relative;
+    /*margin-left: 8%;*/
+    /*margin-top: 7%;*/
+    padding: 3vw 0 0 9vw;
+}
+
+.searchslider > h1{
+    color: #FFFFFF;
+    font-size: 2.5vw;
+    text-align: center;
+}
+
+.noidungsearch{
+    width: 38.9vw !important;
+    height: 4.5vw;
+    background-color: #FFFFFF;
+    border-radius: 0 5px 5px 0;
+}
+
+.icon_search_slider{
+    /*margin-left: 80%;*/
+    margin-top: 1.5% !important;
+    padding: 0.3vw 1.2vw;
+    background-color: darkorange;
+    border-radius: 0px 5px 5px 0px;
+    position: absolute;
+}
+
+#searchsubmit{
+    background-color: darkorange !important;
+}
+
+#searchsubmit i{
+    font-size: 2.5vw;
+}
+
+.search_bottom_content{
+    position: absolute;
+    /*margin-top: 9%;*/
+    text-align: center;
+    width: 100%;
+}
+
+.search_bottom_content h7{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 1vw;
+}
+
+.search_content_icon{
+    position: relative;
+    /*width: 100%;*/
+    /*height: 20%;*/
+    /*top: 32%;*/
+    /*padding: 2vw 1vw;*/
+    padding: 4vw 3vw 7vw 3vw;
+}
+
+.search-icon-left{
+    position: relative;
+    float: left;
+    left: 5%;
+    width: 33%;
+}
+
+.search-icon-left .icon-book-open,.icon-bank-notes,.icon-user{
+    font-size: 4vw;
+    color: #FFFFFF;
+}
+
+.icon-left-search{
+    float: left;
+    margin-right: 4%;
+}
+
+.content-right{
+    color: #FFFFFF;
+    font-size: 1vw;
+}
+
+.content-right b{
+    font-size: 2vw;
+    color: #FFFFFF;
+}
+
+.heading span{
+    color: #000000;
+}
+
+#searchicon{
+    display: none;
+}
+
+#searchsubmit{
+    padding: 0vw 0.9vw !important;
+    font-size: 0.8vw !important;
+    position: absolute;
+    margin-left: -4.6vw;
+    margin-top: 0.3vw;
+    border-radius: 0 5px 5px 0px;
+}
+
+/*thêm pointer cho khung thêm hình ảnh*/
+#course_image{
+    cursor: pointer;
+}
+
+/*Sửa phần không click được nút add Badget*/
+.create_course_content{
+    z-index: 9;
+}
+/*End: BÌnh*/
+
+/**/
+
+.onoffswitch {
+    position: relative; width: 160px;
+    -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+.onoffswitch-checkbox {
+    display: none;
+}
+.onoffswitch-label {
+    display: block; overflow: hidden; cursor: pointer;
+    border: 2px solid #54DE54; border-radius: 20px;
+}
+.onoffswitch-inner {
+    display: block; width: 200%; margin-left: -100%;
+    -moz-transition: margin 0.3s ease-in 0s; -webkit-transition: margin 0.3s ease-in 0s;
+    -o-transition: margin 0.3s ease-in 0s; transition: margin 0.3s ease-in 0s;
+}
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+    display: block; float: left; width: 50%; height: 30px; padding: 0; line-height: 30px;
+    font-size: 14px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+.onoffswitch-inner:before {
+    content: "ON";
+    padding-left: 10px;
+    background-color: #3FE866; color: #FFFFFF;
+}
+.onoffswitch-inner:after {
+    content: "OFF";
+    padding-right: 10px;
+    background-color: #EEEEEE; color: #999999;
+    text-align: right;
+}
+.onoffswitch-switch {
+    display: block; width: 18px; margin: 6px;
+    background: #FFFFFF;
+    border: 2px solid #54DE54; border-radius: 20px;
+    position: absolute; top: 0; bottom: 0; right: 56px;
+    -moz-transition: all 0.3s ease-in 0s; -webkit-transition: all 0.3s ease-in 0s;
+    -o-transition: all 0.3s ease-in 0s; transition: all 0.3s ease-in 0s;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+}
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px;
+}
